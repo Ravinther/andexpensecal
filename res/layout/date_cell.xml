@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.roomorama.caldroid.SquareTextView android:textSize="14sp" android:textStyle="1" android:gravity="11" android:id="@c0342d/calendar_tv" android:background="@c0341c/cell_bg" android:layout_width="-1" android:layout_height="-1" />

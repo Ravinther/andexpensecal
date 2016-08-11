@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="10" android:id="0x7f0d00f3" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:ignoreGravity="0x7f0d000b">
+    <LinearLayout android:orientation="1" android:id="0x7f0d000b" android:background="#ff0000" android:layout_width="42dp" android:layout_height="42dp" android:layout_alignParentLeft="true" android:layout_centerVertical="true">
+        <TextView android:textSize="24dp" android:textColor="#ffffff" android:gravity="11" android:id="0x7f0d0131" android:layout_width="-1" android:layout_height="-1" />
+    </LinearLayout>
+    <LinearLayout android:orientation="1" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:layout_toRightOf="0x7f0d000b">
+        <RelativeLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="14dp" android:textStyle="1" android:id="0x7f0d0017" android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="0x7f0d0015" android:layout_alignParentLeft="true" />
+            <TextView android:textSize="14dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:gravity="5" android:id="0x7f0d0018" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+            <TextView android:textSize="14dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010001" android:gravity="5" android:id="0x7f0d0016" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <RelativeLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="12dp" android:id="0x7f0d0019" android:layout_width="-2" android:layout_height="-2" />
+            <TextView android:textSize="12dp" android:id="0x7f0d001a" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <RelativeLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="12dp" android:id="0x7f0d010f" android:paddingRight="5dp" android:layout_width="-2" android:layout_height="-2" />
+            <TextView android:textSize="12dp" android:gravity="5" android:id="0x7f0d010e" android:layout_width="-2" android:layout_height="-2" android:layout_toRightOf="0x7f0d010f" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

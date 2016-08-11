@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:visibility="0" android:scrollbars="200" android:fadingEdge="2000" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:padding="10dp" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textSize="20dp" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f060209" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d02ae" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f060207" />
+        <LinearLayout android:gravity="10" android:orientation="0" android:padding="5dp" android:layout_width="-2" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:id="0x7f0d0123" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f06001e" />
+            <Spinner android:id="0x7f0d02af" android:layout_width="-2" android:layout_height="-2" android:drawSelectorOnTop="true" android:prompt="0x7f060025" />
+        </LinearLayout>
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d02b0" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0601ee" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d02b1" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0601ed" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d02b2" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f060020" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d02b3" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f06008d" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d00b0" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f06005a" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d02bd" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0601d8" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d00b2" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0601e8" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d02be" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0601dd" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d02b4" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0601da" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d02b5" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f060212" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d02b6" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0601e7" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d02b7" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0601dc" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d02b8" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0601d9" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d02b9" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f060211" />
+        <LinearLayout android:layout_gravity="11" android:orientation="0" android:padding="10dp" android:layout_width="-2" android:layout_height="-2">
+            <Button android:textSize="0x7f070000" android:id="0x7f0d0031" android:layout_width="300dp" android:layout_height="-2" android:text="0x7f06014f" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

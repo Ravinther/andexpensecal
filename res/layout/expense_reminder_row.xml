@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="68dp"
+    <RelativeLayout android:orientation="1" android:id="0x7f0d01c6" android:background="#ffff0000" android:layout_width="52dp" android:layout_height="52dp">
+        <TextView android:textSize="12dp" android:textColor="#ffffff" android:id="0x7f0d01c7" android:layout_width="-2" android:layout_height="-2" android:text="due in" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="26dp" android:textStyle="1" android:textColor="#ffffff" android:id="0x7f0d01c8" android:paddingTop="2dp" android:layout_width="-2" android:layout_height="-2" android:text="0" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="1" android:paddingLeft="10dp" android:paddingRight="5dp" android:layout_width="-1" android:layout_height="-2" android:layout_toRightOf="0x7f0d01c6">
+        <RelativeLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="14dp" android:textStyle="1" android:id="0x7f0d0017" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+            <TextView android:textSize="14dp" android:textStyle="1" android:id="0x7f0d0015" android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="0x7f0d0017" android:layout_alignParentLeft="true" />
+        </RelativeLayout>
+        <RelativeLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="12dp" android:id="0x7f0d0018" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+            <TextView android:textSize="12dp" android:id="0x7f0d0016" android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="0x7f0d0018" android:layout_alignParentLeft="true" />
+        </RelativeLayout>
+        <RelativeLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="12dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d0019" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+            <TextView android:textSize="12dp" android:id="0x7f0d001a" android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="0x7f0d0019" android:layout_alignParentLeft="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <RelativeLayout android:gravity="10" android:orientation="0" android:id="0x7f0d0049" android:background="0x1080062" android:padding="5dp" android:layout_width="-2" android:layout_height="-2">
+        <TextView android:textSize="16dp" android:textStyle="1" android:id="0x7f0d004a" android:layout_width="90dp" android:layout_height="-2" android:text="0x7f06001e" android:layout_centerVertical="true" />
+        <ImageView android:id="0x7f0d004b" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020005" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        <TextView android:textSize="16dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d004c" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:text="Personal Expense" android:layout_toLeftOf="0x7f0d004b" android:layout_toRightOf="0x7f0d004a" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="0" android:id="0x7f0d004f" android:padding="5dp" android:visibility="2" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textSize="15dp" android:textStyle="1" android:paddingRight="5dp" android:layout_width="90dp" android:layout_height="-2" android:text="0x7f06006b" />
+        <Spinner android:id="0x7f0d0050" android:layout_width="-1" android:layout_height="-2" android:drawSelectorOnTop="true" android:prompt="0x7f06017a" />
+    </LinearLayout>
+    <com.github.mikephil.charting.charts.HorizontalBarChart android:id="0x7f0d000d" android:layout_width="-1" android:layout_height="-1" />
+</LinearLayout>

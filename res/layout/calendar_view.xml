@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="@c0340b/caldroid_transparent" android:layout_width="-1" android:layout_height="-2">
+    <RelativeLayout android:id="@c0342d/calendar_title_view" android:layout_width="-1" android:layout_height="-2">
+        <Button android:id="@c0342d/calendar_left_arrow" android:background="@c0341c/left_arrow" android:layout_width="50dp" android:layout_height="44dp" android:layout_alignParentLeft="true" />
+        <TextView android:textSize="22sp" android:gravity="1" android:id="@c0342d/calendar_month_year_textview" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="6dp" android:layout_toLeftOf="@c0342d/calendar_right_arrow" android:layout_toRightOf="@c0342d/calendar_left_arrow" android:textIsSelectable="true" />
+        <Button android:id="@c0342d/calendar_right_arrow" android:background="@c0341c/right_arrow" android:layout_width="50dp" android:layout_height="44dp" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <GridView android:id="@c0342d/weekday_gridview" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="-15dp" android:stretchMode="2" android:numColumns="7" />
+    <com.antonyt.infiniteviewpager.InfiniteViewPager android:id="@c0342d/months_infinite_pager" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="-10dp" />
+</LinearLayout>

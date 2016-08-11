@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <com.expensemanager.TouchListView tlv:id="0x102000a" tlv:layout_width="-1" tlv:layout_height="0dp" tlv:drawSelectorOnTop="false" tlv:layout_weight="1.0" tlv:layout_above="0x7f0d000c" tlv:layout_alignParentTop="true" tlv:normal_height="52dp" tlv:grabber="0x7f0d000b" tlv:remove_mode="1" />
+    <LinearLayout android:orientation="0" android:id="0x7f0d000c" android:background="#dddddd" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true">
+        <EditText android:textStyle="1" android:textColor="#000000" android:layout_gravity="11" android:id="0x7f0d0012" android:layout_width="250dp" android:layout_height="-2" android:hint="0x7f0600e1" android:layout_weight="4.0" android:layout_alignParentLeft="true" />
+        <ImageButton android:layout_gravity="11" android:id="0x7f0d0013" android:background="0x7f020018" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:src="0x7f02005f" android:layout_weight="1.0" android:layout_alignParentRight="true" />
+    </LinearLayout>
+</LinearLayout>

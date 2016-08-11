@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="10" android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+    <View android:id="0x7f0d0248" android:background="?unknown_attr_ref: 7f010002" android:layout_width="7dp" android:layout_height="48dp" android:layout_margin="5dp" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:gravity="10" android:id="0x7f0d0017" android:paddingLeft="6dp" android:layout_width="-1" android:layout_height="-2" android:minHeight="?unknown_attr_ref: 101004d" />
+</LinearLayout>

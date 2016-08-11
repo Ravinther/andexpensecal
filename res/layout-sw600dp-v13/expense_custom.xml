@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="0x7f0d0052" android:scrollbars="200" android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:orientation="1" android:id="0x7f0d0075" android:padding="10dp" android:layout_width="-1" android:layout_height="-2">
+        <RelativeLayout android:gravity="10" android:orientation="0" android:id="0x7f0d004b" android:background="0x1080062" android:padding="5dp" android:layout_width="-2" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:id="0x7f0d004a" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f06001e" android:layout_centerVertical="true" />
+            <ImageView android:id="0x7f0d0171" android:paddingRight="5dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020005" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d004c" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:text="Personal Expense" android:layout_toLeftOf="0x7f0d0171" android:layout_toRightOf="0x7f0d004a" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f0d00fa" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:id="0x7f0d00fb" android:paddingRight="15dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060092" />
+            <Button android:textSize="0x7f070001" android:id="0x7f0d00fc" android:layout_width="200dp" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f060108" />
+            <TextView android:textSize="24dp" android:textStyle="1" android:id="0x7f0d00fd" android:layout_width="-2" android:layout_height="-2" android:text=" - " />
+            <Button android:textSize="0x7f070001" android:id="0x7f0d00fe" android:layout_width="200dp" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0601e4" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <RadioGroup android:orientation="0" android:id="0x7f0d00f5" android:layout_width="-1" android:layout_height="-2">
+                <RadioButton android:textSize="0x7f070000" android:id="0x7f0d016b" android:layout_width="-2" android:layout_height="-2" android:checked="true" android:text="0x7f0600ea" />
+                <RadioButton android:textSize="0x7f070000" android:id="0x7f0d016c" android:layout_width="-2" android:layout_height="-2" android:text="0x7f06011c" />
+                <RadioButton android:textSize="0x7f070000" android:id="0x7f0d0172" android:layout_width="-2" android:layout_height="-2" android:text="0x7f06005e" />
+            </RadioGroup>
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:id="0x7f0d0123" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f060164" />
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d012b" android:background="0x1080062" android:padding="5dp" android:focusable="true" android:clickable="true" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f060079" />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f06006b" />
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d0140" android:background="0x1080062" android:padding="5dp" android:focusable="true" android:clickable="true" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f060079" />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f0601ca" />
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d0144" android:background="0x1080062" android:padding="5dp" android:focusable="true" android:clickable="true" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f060079" />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:gravity="30" android:id="0x7f0d0093" android:layout_width="250dp" android:layout_height="-2" android:drawSelectorOnTop="true" android:text="0x7f06016b" />
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d0173" android:background="0x1080062" android:padding="5dp" android:focusable="true" android:clickable="true" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f060079" />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:gravity="30" android:id="0x7f0d011c" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f0601c5" />
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d011d" android:background="0x1080062" android:padding="5dp" android:focusable="true" android:clickable="true" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f060079" />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:gravity="30" android:id="0x7f0d0099" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f0601ce" />
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d0174" android:background="0x1080062" android:padding="5dp" android:focusable="true" android:clickable="true" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f060079" />
+        </LinearLayout>
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d0175" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0601d2" />
+        <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f06004b" />
+            <AutoCompleteTextView android:textSize="0x7f070000" android:id="0x7f0d007e" android:layout_width="-1" android:layout_height="-2" android:digits="0123456789." android:inputType="2002" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f060187" />
+            <AutoCompleteTextView android:textSize="0x7f070000" android:id="0x7f0d0094" android:layout_width="-1" android:layout_height="-2" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:id="0x7f0d0088" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f0600a5" />
+            <AutoCompleteTextView android:textSize="0x7f070000" android:id="0x7f0d0089" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f0600e2" />
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="11" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <Button android:textSize="0x7f070000" android:layout_gravity="11" android:id="0x7f0d0176" android:layout_width="100dp" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f060199" android:layout_weight="1.0" />
+            <Button android:textSize="0x7f070000" android:layout_gravity="11" android:id="0x7f0d0177" android:layout_width="100dp" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0600dd" android:layout_weight="1.0" />
+            <Button android:textSize="0x7f070000" android:layout_gravity="11" android:id="0x7f0d0178" android:layout_width="100dp" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f060195" android:singleLine="true" android:layout_weight="1.0" />
+            <Button android:textSize="0x7f070000" android:layout_gravity="11" android:id="0x7f0d0179" android:layout_width="100dp" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0601a6" android:singleLine="true" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

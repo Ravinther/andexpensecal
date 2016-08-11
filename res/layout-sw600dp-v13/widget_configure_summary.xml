@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="0x7f0d0052" android:scrollbars="200" android:layout_width="-1" android:layout_height="-1" android:fillViewport="true">
+    <LinearLayout android:orientation="1" android:id="0x7f0d00f3" android:padding="10dp" android:layout_width="-1" android:layout_height="-1">
+        <RelativeLayout android:gravity="10" android:orientation="0" android:id="0x7f0d0049" android:background="0x1080062" android:padding="5dp" android:layout_width="-2" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:id="0x7f0d004a" android:layout_width="180dp" android:layout_height="-2" android:text="0x7f06001e" android:layout_centerVertical="true" />
+            <ImageView android:id="0x7f0d004b" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020005" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d004c" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:text="Personal Expense" android:layout_toLeftOf="0x7f0d004b" android:layout_toRightOf="0x7f0d004a" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <LinearLayout android:layout_gravity="11" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:paddingRight="5dp" android:layout_width="180dp" android:layout_height="-2" android:text="0x7f0601ab" />
+            <Spinner android:id="0x7f0d00f4" android:layout_width="-2" android:layout_height="-2" android:drawSelectorOnTop="true" android:prompt="0x7f06017a" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <RadioGroup android:orientation="0" android:id="0x7f0d00f5" android:layout_width="-1" android:layout_height="-2">
+                <RadioButton android:textSize="0x7f070000" android:id="0x7f0d00f6" android:layout_width="-2" android:layout_height="-2" android:checked="true" android:text="All" />
+                <RadioButton android:textSize="0x7f070000" android:id="0x7f0d00f7" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060205" />
+                <RadioButton android:textSize="0x7f070000" android:id="0x7f0d00f8" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060134" />
+                <RadioButton android:textSize="0x7f070000" android:id="0x7f0d00f9" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060213" android:singleLine="true" />
+            </RadioGroup>
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:id="0x7f0d00fa" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:id="0x7f0d00fb" android:paddingLeft="5dp" android:paddingRight="5dp" android:layout_width="180dp" android:layout_height="-2" android:text="0x7f0601ad" />
+            <Button android:textSize="0x7f070000" android:id="0x7f0d00fc" android:layout_width="150dp" android:layout_height="-2" android:layout_margin="5dp" android:minWidth="1dp" android:minHeight="1dp" android:hint="0x7f060108" style="?unknown_attr_ref: 1010049" />
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:id="0x7f0d00fd" android:layout_width="-2" android:layout_height="-2" android:text="-" />
+            <Button android:textSize="0x7f070000" android:id="0x7f0d00fe" android:layout_width="150dp" android:layout_height="-2" android:layout_margin="5dp" android:minWidth="1dp" android:minHeight="1dp" android:hint="0x7f0601e4" style="?unknown_attr_ref: 1010049" />
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="11" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:paddingRight="5dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f06020b" />
+            <Spinner android:id="0x7f0d02bf" android:layout_width="200dp" android:layout_height="-2" android:drawSelectorOnTop="true" android:prompt="0x7f06017a" />
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="11" android:orientation="0" android:padding="10dp" android:layout_width="-2" android:layout_height="-2">
+            <Button android:textSize="0x7f070000" android:id="0x7f0d0031" android:layout_width="300dp" android:layout_height="-2" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f06014f" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:id="0x7f0d0229" android:background="#202020" android:padding="10dp" android:layout_width="300dp" android:layout_height="-1">
+    <TextView android:textColor="#ff0000" android:id="0x7f0d0230" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0601f7" />
+    <RelativeLayout android:layout_gravity="11" android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+        <EditText android:textSize="28dp" android:textColor="#ffffff" android:gravity="11" android:id="0x7f0d0231" android:padding="10dp" android:focusable="false" android:layout_width="-1" android:layout_height="-2" android:password="true" android:inputType="b1" />
+        <ImageView android:id="0x7f0d0232" android:layout_width="-2" android:layout_height="-2" android:src="0x7f02006c" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <LinearLayout android:layout_gravity="11" android:orientation="1" android:id="0x7f0d0233" android:layout_width="-1" android:layout_height="280dp" android:layout_weight="4.0"
+        <LinearLayout android:layout_width="-1" android:layout_height="0dp" android:layout_weight="3.0">
+            <Button android:id="0x7f0d0026" android:text="0x7f0600a9" style="0x7f080012" />
+            <Button android:id="0x7f0d0027" android:text="0x7f0600aa" style="0x7f080012" />
+            <Button android:id="0x7f0d0028" android:text="0x7f0600ab" style="0x7f080012" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="0dp" android:layout_weight="3.0">
+            <Button android:id="0x7f0d0022" android:text="0x7f0600ac" style="0x7f080012" />
+            <Button android:id="0x7f0d0023" android:text="0x7f0600ad" style="0x7f080012" />
+            <Button android:id="0x7f0d0024" android:text="0x7f0600ae" style="0x7f080012" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="0dp" android:layout_weight="3.0">
+            <Button android:id="0x7f0d001e" android:text="0x7f0600af" style="0x7f080012" />
+            <Button android:id="0x7f0d001f" android:text="0x7f0600b0" style="0x7f080012" />
+            <Button android:id="0x7f0d0020" android:text="0x7f0600b1" style="0x7f080012" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="0dp" android:layout_weight="3.0">
+            <Button android:textSize="16dp" android:id="0x7f0d0234" android:text="0x7f060199" android:singleLine="true" style="0x7f080012" />
+            <Button android:id="0x7f0d002a" android:text="0x7f0600a8" style="0x7f080012" />
+            <ImageButton android:id="0x7f0d006b" android:src="0x7f02005b" android:text="0x7f06014f" style="0x7f080012" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

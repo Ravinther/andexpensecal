@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1" android:layout_weight="1.0">
+    <LinearLayout android:layout_gravity="11" android:orientation="0" android:id="0x7f0d005c" android:background="#736f6e" android:padding="5dp" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true">
+        <Button android:id="0x7f0d00d6" android:visibility="2" android:layout_width="150dp" android:layout_height="-2" android:layout_margin="2dp" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f06009a" android:layout_weight="1.0" style="?unknown_attr_ref: 1010049" />
+        <Button android:id="0x7f0d006a" android:layout_width="150dp" android:layout_height="-2" android:layout_margin="2dp" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f06006a" android:layout_weight="1.0" style="?unknown_attr_ref: 1010049" />
+        <Button android:id="0x7f0d006b" android:layout_width="150dp" android:layout_height="-2" android:layout_margin="2dp" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f06014f" android:layout_weight="1.0" style="?unknown_attr_ref: 1010049" />
+    </LinearLayout>
+    <LinearLayout android:orientation="1" android:id="0x7f0d0229" android:layout_width="-1" android:layout_height="-1">
+        <EditText android:id="0x7f0d022a" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f06014d" />
+        <EditText android:gravity="30" android:id="0x7f0d022b" android:layout_width="-1" android:layout_height="-1" android:minHeight="400dp" android:hint="0x7f06014c" />
+    </LinearLayout>
+</RelativeLayout>

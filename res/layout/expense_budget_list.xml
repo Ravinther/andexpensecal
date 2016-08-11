@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="0x7f0d014d" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:id="0x7f0d014e" android:layout_width="-1" android:layout_height="-1">
+        <RelativeLayout android:orientation="0" android:layout_width="-1" android:layout_height="48dp">
+            <ImageView android:id="0x7f0d014f" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true" />
+            <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" android:layout_centerVertical="true">
+                <TextView android:textSize="16dp" android:textStyle="1" android:id="0x7f0d0082" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" />
+                <ImageView android:id="0x7f0d0081" android:layout_width="-2" android:layout_height="-2" />
+            </LinearLayout>
+            <ImageView android:id="0x7f0d0150" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <ListView android:id="0x7f0d0151" android:layout_width="-1" android:layout_height="-1" android:transcriptMode="1" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:orientation="1" android:id="0x7f0d0152" android:layout_width="-1" android:layout_height="-1">
+        <RelativeLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <ImageView android:id="0x7f0d0153" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true" />
+            <LinearLayout android:orientation="1" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" android:layout_centerVertical="true">
+                <TextView android:textSize="16dp" android:textStyle="1" android:id="0x7f0d0154" android:layout_width="-2" android:layout_height="-2" android:text="Weekly Expense" />
+            </LinearLayout>
+            <ImageView android:id="0x7f0d0155" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <ListView android:id="0x7f0d0156" android:layout_width="-1" android:layout_height="-1" android:transcriptMode="1" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:orientation="1" android:id="0x7f0d0157" android:layout_width="-1" android:layout_height="-1">
+        <RelativeLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <ImageView android:id="0x7f0d0158" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true" />
+            <LinearLayout android:orientation="1" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" android:layout_centerVertical="true">
+                <TextView android:textSize="16dp" android:textStyle="1" android:id="0x7f0d0159" android:layout_width="-1" android:layout_height="-2" />
+            </LinearLayout>
+            <ImageView android:id="0x7f0d015a" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <ListView android:id="0x7f0d015b" android:layout_width="-1" android:layout_height="-1" android:transcriptMode="1" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:orientation="1" android:id="0x7f0d015c" android:layout_width="-1" android:layout_height="-1">
+        <RelativeLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <ImageView android:id="0x7f0d015d" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true" />
+            <LinearLayout android:orientation="1" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" android:layout_centerVertical="true">
+                <TextView android:textSize="16dp" android:textStyle="1" android:id="0x7f0d015e" android:layout_width="-1" android:layout_height="-2" android:text="Yearly Expense" />
+            </LinearLayout>
+            <ImageView android:id="0x7f0d015f" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <ListView android:id="0x7f0d0160" android:layout_width="-1" android:layout_height="-1" android:transcriptMode="1" android:layout_weight="1.0" />
+    </LinearLayout>
+</FrameLayout>

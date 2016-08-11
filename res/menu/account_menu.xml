@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item android:icon="0x7f02005f" android:id="0x7f0d02cb" android:title="0x7f060029" android:showAsAction="2" />
+    <item android:icon="0x7f02005c" android:id="0x7f0d02cc" android:title="0x7f0600d4" android:showAsAction="2" />
+    <item android:icon="0x7f020063" android:id="0x7f0d02cd" android:title="" android:showAsAction="2">
+        <menu>
+            <item android:id="0x7f0d02ce" android:title="0x7f060021" android:showAsAction="0" />
+            <item android:id="0x7f0d02cf" android:title="0x7f060098" android:showAsAction="0" />
+            <item android:id="0x7f0d00cd" android:title="0x7f06010d" android:showAsAction="0" />
+            <item android:id="0x7f0d02d0" android:title="0x7f060027" android:showAsAction="0" />
+            <item android:id="0x7f0d02d1" android:title="0x7f060087" android:showAsAction="0" />
+            <item android:id="0x7f0d02d2" android:title="0x7f0601a6" android:showAsAction="9" android:actionViewClass="android.widget.SearchView" />
+        </menu> />
+</menu>

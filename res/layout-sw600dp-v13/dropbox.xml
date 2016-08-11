@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="0x7f0d0052" android:scrollbars="200" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+        <LinearLayout android:orientation="1" android:padding="10dp" android:layout_width="-1" android:layout_height="-2">
+            <Button android:textSize="0x7f070000" android:id="0x7f0d00b8" android:layout_width="-1" android:layout_height="-2" android:layout_margin="10dp" android:text="Link with Dropbox" />
+            <TextView android:textSize="0x7f070000" android:textStyle="2" android:id="0x7f0d00b9" android:layout_width="-1" android:layout_height="-2" />
+        </LinearLayout>
+        <LinearLayout android:orientation="1" android:id="0x7f0d00ba" android:padding="10dp" android:layout_width="-1" android:layout_height="-1" android:layout_weight="1.0">
+            <TextView android:textSize="0x7f070000" android:id="0x7f0d00bb" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0600c5" />
+            <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <Button android:textSize="0x7f070000" android:id="0x7f0d00bc" android:layout_width="-1" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0600cc" android:layout_weight="1.0" />
+                <Button android:textSize="0x7f070000" android:id="0x7f0d00bd" android:layout_width="-1" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0600bf" android:layout_weight="1.0" />
+            </LinearLayout>
+            <TextView android:textSize="0x7f070000" android:id="0x7f0d00be" android:paddingTop="5dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0600c3" />
+            <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <Button android:textSize="0x7f070000" android:id="0x7f0d00bf" android:layout_width="-1" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0600cb" android:layout_weight="1.0" />
+                <Button android:textSize="0x7f070000" android:id="0x7f0d00c0" android:layout_width="-1" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0600be" android:layout_weight="1.0" />
+            </LinearLayout>
+            <TextView android:textSize="0x7f070000" android:id="0x7f0d00c1" android:paddingTop="10dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0600c4" />
+            <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <Button android:textSize="0x7f070000" android:id="0x7f0d00c2" android:layout_width="-1" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0600ce" android:layout_weight="1.0" />
+                <Button android:textSize="0x7f070000" android:id="0x7f0d00c3" android:layout_width="-1" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0600c1" android:layout_weight="1.0" />
+            </LinearLayout>
+            <TextView android:textSize="0x7f070000" android:textStyle="2" android:id="0x7f0d00c4" android:padding="10dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0600c9" />
+            <CheckBox android:textSize="0x7f070000" android:id="0x7f0d00c5" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0600c8" />
+            <TextView android:textSize="0x7f070001" android:textStyle="2" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0600ca" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

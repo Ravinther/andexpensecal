@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1" android:layout_weight="1.0">
+    <LinearLayout android:layout_gravity="11" android:orientation="0" android:id="0x7f0d005c" android:background="#dcdcdc" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true">
+        <Button android:textSize="0x7f070000" android:id="0x7f0d00d6" android:visibility="2" android:layout_width="150dp" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f06009a" android:layout_weight="1.0" />
+        <Button android:textSize="0x7f070000" android:id="0x7f0d006a" android:layout_width="150dp" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f06006a" android:layout_weight="1.0" />
+        <Button android:textSize="0x7f070000" android:id="0x7f0d006b" android:layout_width="150dp" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f06014f" android:layout_weight="1.0" />
+    </LinearLayout>
+    <ScrollView android:id="0x7f0d0052" android:layout_width="-1" android:layout_height="-1" android:layout_above="0x7f0d005c">
+        <LinearLayout android:orientation="1" android:id="0x7f0d0229" android:layout_width="-1" android:layout_height="-2">
+            <EditText android:textSize="0x7f070000" android:id="0x7f0d022a" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f06014d" />
+            <EditText android:textSize="0x7f070000" android:gravity="30" android:id="0x7f0d022b" android:layout_width="-1" android:layout_height="-2" android:minHeight="600dp" android:hint="0x7f06014c" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

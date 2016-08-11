@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridView android:gravity="1" android:id="@c0342d/calendar_gridview" android:padding="1dp" android:layout_width="-1" android:layout_height="-2" android:horizontalSpacing="1dp" android:verticalSpacing="1dp" android:stretchMode="2" android:numColumns="7" android:adjustViewBounds="true" />

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:background="0x7f02004c" android:padding="5dp" android:layout_width="-2" android:layout_height="-2">
+    <TextView android:textSize="0x7f070000" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d0017" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" />
+</LinearLayout>

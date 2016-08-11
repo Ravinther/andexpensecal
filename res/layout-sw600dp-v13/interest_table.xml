@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:id="0x7f0d00f3" android:layout_width="-1" android:layout_height="-1">
+    <RelativeLayout android:orientation="0" android:background="#fcf6cf" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textSize="0x7f070000" android:textStyle="1" android:textColor="#000000" android:id="0x7f0d0015" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060125" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="0x7f070000" android:textStyle="1" android:textColor="#000000" android:id="0x7f0d0017" android:layout_width="-2" android:layout_height="-2" android:text="0x7f06013d" android:layout_toLeftOf="0x7f0d0018" android:layout_alignParentLeft="true" />
+        <TextView android:textSize="0x7f070000" android:textStyle="1" android:textColor="#000000" android:gravity="5" android:id="0x7f0d0018" android:paddingLeft="5dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060059" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <ListView android:id="0x7f0d00a1" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+</LinearLayout>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <com.expensemanager.TouchListView tlv:id="0x102000a" tlv:layout_width="-1" tlv:layout_height="-1" tlv:drawSelectorOnTop="false" tlv:layout_above="0x7f0d000c" tlv:layout_alignParentTop="true" tlv:grabber="0x7f0d000b" tlv:remove_mode="1" />
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="0x7f0d0052" android:scrollbars="200" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:padding="15dp" android:layout_width="-1" android:layout_height="-2"
+        <LinearLayout android:gravity="10" android:orientation="1" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060028" />
+            <Spinner android:id="0x7f0d00a8" android:layout_width="300dp" android:layout_height="-2" android:drawSelectorOnTop="true" android:prompt="0x7f06017a" />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="1" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060064" />
+            <Spinner android:id="0x7f0d00a9" android:layout_width="300dp" android:layout_height="-2" android:drawSelectorOnTop="true" android:prompt="0x7f06017a" />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="1" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0601d5" />
+            <com.expensemanager.NDSpinner android:id="0x7f0d00aa" android:layout_width="300dp" android:layout_height="-2" android:drawSelectorOnTop="true" android:prompt="0x7f06017a" />
+        </LinearLayout>
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d00ab" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="5dp" android:layout_marginBottom="5dp" android:checked="true" android:text="0x7f060110" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d00ac" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060180" />
+        <TextView android:textSize="0x7f070000" android:textStyle="1" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0600b4" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d00ad" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0601e6" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d00ae" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0601db" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d00af" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0601d8" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d00b0" android:layout_width="-2" android:layout_height="-2" android:text="0x7f06005a" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d00b1" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060210" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d00b2" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0601e8" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d00b3" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0601dd" />
+        <CheckBox android:textSize="0x7f070000" android:id="0x7f0d00b4" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="15dp" android:text="0x7f0600e9" />
+        <TextView android:textSize="0x7f070000" android:paddingTop="10dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060090" />
+        <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:gravity="5" android:paddingRight="5dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060091" />
+            <Spinner android:id="0x7f0d00b5" android:layout_width="-2" android:layout_height="-2" android:drawSelectorOnTop="true" android:prompt="0x7f06018d" />
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="11" android:orientation="0" android:paddingTop="10dp" android:layout_width="-1" android:layout_height="-2">
+            <Button android:textSize="0x7f070000" android:layout_gravity="11" android:id="0x7f0d00b6" android:layout_width="100dp" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f06006a" android:layout_weight="1.0" />
+            <Button android:textSize="0x7f070000" android:layout_gravity="11" android:id="0x7f0d00b7" android:layout_width="100dp" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f06014f" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="0x7f0d0052" android:scrollbars="200" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:padding="10dp" android:layout_width="-1" android:layout_height="-2"
+        <LinearLayout android:layout_gravity="11" android:orientation="0" android:padding="10dp" android:layout_width="-2" android:layout_height="-2">
+            <Button android:layout_gravity="11" android:id="0x7f0d00b7" android:layout_width="200dp" android:layout_height="-2" android:text="Pro Edition" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="18dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f06017f" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:state_focused="false" android:state_selected="false" android:state_pressed="false" android:drawable="0x7f020042" />
+    <item android:state_focused="false" android:state_selected="true" android:state_pressed="false" android:drawable="0x7f02003f" />
+    <item android:state_focused="true" android:state_selected="false" android:state_pressed="false" android:drawable="0x7f020043" />
+    <item android:state_focused="true" android:state_selected="true" android:state_pressed="false" android:drawable="0x7f020040" />
+    <item android:state_focused="false" android:state_selected="false" android:state_pressed="true" android:drawable="0x7f020044" />
+    <item android:state_focused="false" android:state_selected="true" android:state_pressed="true" android:drawable="0x7f020041" />
+    <item android:state_focused="true" android:state_selected="false" android:state_pressed="true" android:drawable="0x7f020044" />
+    <item android:state_focused="true" android:state_selected="true" android:state_pressed="true" android:drawable="0x7f020041" />
+</selector>

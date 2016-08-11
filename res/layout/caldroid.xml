@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:id="0x7f0d0032" android:background="#f0f0f0" android:paddingLeft="10dp" android:paddingRight="10dp" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true">
+        <RelativeLayout android:gravity="10" android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textColor="#000000" android:id="0x7f0d0033" android:layout_width="-2" android:layout_height="-2" android:text="0x7f06011c" android:layout_centerInParent="true" />
+            <TextView android:textColor="#000000" android:id="0x7f0d0034" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060058" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+            <TextView android:textColor="#000000" android:id="0x7f0d0035" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0600ea" android:layout_alignParentRight="true" android:layout_centerInParent="true" />
+        </RelativeLayout>
+        <RelativeLayout android:gravity="10" android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textStyle="1" android:textColor="#088a08" android:id="0x7f0d0036" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" />
+            <TextView android:textStyle="1" android:textColor="#000000" android:id="0x7f0d0037" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+            <TextView android:textStyle="1" android:textColor="#ff0000" android:id="0x7f0d0038" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="1" android:id="0x7f0d0039" android:layout_width="-1" android:layout_height="-1" android:layout_above="0x7f0d0032" />
+</RelativeLayout>

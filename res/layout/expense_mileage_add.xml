@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="0x7f0d0052" android:scrollbars="200" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:id="0x7f0d00f3" android:padding="5dp" android:layout_width="-1" android:layout_height="-2"
+        <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:baselineAligned="false"
+            <LinearLayout android:gravity="10" android:orientation="1" android:id="0x7f0d00fa" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0">
+                <TextView android:textStyle="1" android:id="0x7f0d0080" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060092" />
+                <Button android:textSize="16dp" android:gravity="13" android:id="0x7f0d0081" android:layout_width="-1" android:layout_height="-2" />
+            </LinearLayout>
+            <LinearLayout android:gravity="10" android:orientation="1" android:id="0x7f0d004f" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0">
+                <TextView android:textStyle="1" android:id="0x7f0d008d" android:layout_width="-2" android:layout_height="-2" android:text="0x7f06006b" />
+                <Button android:textSize="16dp" android:gravity="13" android:id="0x7f0d008e" android:layout_width="-1" android:layout_height="-2" android:baselineAligned="false" android:singleLine="true" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:id="0x7f0d01a6" android:layout_width="-1" android:layout_height="-2"
+            <LinearLayout android:gravity="10" android:orientation="1" android:id="0x7f0d01a7" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0">
+                <TextView android:textStyle="1" android:id="0x7f0d01a8" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060106" />
+                <Button android:textSize="16dp" android:gravity="13" android:id="0x7f0d01a9" android:layout_width="-1" android:layout_height="-2" />
+            </LinearLayout>
+            <LinearLayout android:gravity="10" android:orientation="1" android:id="0x7f0d01aa" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0">
+                <TextView android:textStyle="1" android:id="0x7f0d01ab" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0601e2" />
+                <Button android:textSize="16dp" android:gravity="13" android:id="0x7f0d01ac" android:layout_width="-1" android:layout_height="-2" />
+            </LinearLayout>
+        </LinearLayout>
+        <RadioGroup android:orientation="0" android:id="0x7f0d01ad" android:paddingRight="5dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2">
+            <RadioButton android:id="0x7f0d01ae" android:layout_width="-2" android:layout_height="-2" android:checked="true" android:text="0x7f0601a0" />
+            <RadioButton android:id="0x7f0d01af" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060154" />
+        </RadioGroup>
+        <LinearLayout android:orientation="0" android:id="0x7f0d01b0" android:layout_width="-1" android:layout_height="-2"
+            <LinearLayout android:orientation="1" android:id="0x7f0d01b1" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0">
+                <TextView android:textStyle="1" android:id="0x7f0d01b2" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0601c3" android:singleLine="true" />
+                <EditText android:id="0x7f0d01b3" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:selectAllOnFocus="true" android:digits="0123456789." android:inputType="2002" />
+            </LinearLayout>
+            <LinearLayout android:orientation="1" android:id="0x7f0d01b4" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0">
+                <TextView android:textStyle="1" android:id="0x7f0d01b5" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0600df" />
+                <EditText android:id="0x7f0d01b6" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:selectAllOnFocus="true" android:digits="0123456789." android:inputType="2002" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2"
+            <LinearLayout android:orientation="1" android:id="0x7f0d01b7" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0">
+                <TextView android:textStyle="1" android:id="0x7f0d01b8" android:layout_width="130dp" android:layout_height="-2" android:text="0x7f06012e" />
+                <EditText android:id="0x7f0d01b9" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:digits="0123456789." android:inputType="2002" />
+            </LinearLayout>
+            <LinearLayout android:orientation="1" android:id="0x7f0d01ba" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0">
+                <TextView android:textStyle="1" android:id="0x7f0d01bb" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060130" />
+                <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+                    <EditText android:id="0x7f0d01bc" android:padding="5dp" android:layout_width="80dp" android:layout_height="-2" android:digits="0123456789.-" android:inputType="2002" />
+                    <TextView android:id="0x7f0d01bd" android:paddingLeft="5dp" android:layout_width="-2" android:layout_height="-2" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:id="0x7f0d01be" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textStyle="1" android:id="0x7f0d007c" android:paddingRight="10dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f06004b" />
+            <Button android:textSize="16dp" android:textStyle="1" android:gravity="13" android:id="0x7f0d007e" android:layout_width="-1" android:layout_height="-2" android:text="0.00" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2"
+            <LinearLayout android:gravity="10" android:orientation="1" android:id="0x7f0d01bf" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0">
+                <TextView android:textStyle="1" android:id="0x7f0d01c0" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060182" />
+                <Spinner android:id="0x7f0d01c1" android:layout_width="-1" android:layout_height="-2" android:drawSelectorOnTop="true" android:prompt="0x7f06017a" />
+            </LinearLayout>
+            <LinearLayout android:gravity="10" android:orientation="1" android:id="0x7f0d0146" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0">
+                <TextView android:textStyle="1" android:id="0x7f0d0097" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0601ce" />
+                <Button android:textSize="16dp" android:gravity="13" android:id="0x7f0d01c2" android:layout_width="-1" android:layout_height="-2" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textStyle="1" android:id="0x7f0d0088" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0600a5" />
+            <EditText android:id="0x7f0d0089" android:layout_width="-1" android:layout_height="-2" />
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="11" android:orientation="0" android:paddingTop="5dp" android:layout_width="-1" android:layout_height="-2">
+            <Button android:textSize="12.5dp" android:layout_gravity="11" android:id="0x7f0d009e" android:visibility="2" android:layout_width="75dp" android:layout_height="-2" android:layout_margin="2dp" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f06009a" android:layout_weight="1.0" style="?unknown_attr_ref: 1010049" />
+            <Button android:layout_gravity="11" android:id="0x7f0d009f" android:layout_width="75dp" android:layout_height="-2" android:layout_margin="2dp" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f060052" android:layout_weight="1.0" style="?unknown_attr_ref: 1010049" />
+            <Button android:layout_gravity="11" android:id="0x7f0d00a0" android:layout_width="75dp" android:layout_height="-2" android:layout_margin="2dp" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f06014f" android:layout_weight="1.0" style="?unknown_attr_ref: 1010049" />
+            <Button android:textSize="12.5dp" android:layout_gravity="11" android:id="0x7f0d012a" android:visibility="2" android:layout_width="78dp" android:layout_height="-2" android:layout_margin="2dp" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f0601a3" android:layout_weight="1.0" style="?unknown_attr_ref: 1010049" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

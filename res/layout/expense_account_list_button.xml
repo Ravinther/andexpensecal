@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:layout_gravity="11" android:orientation="0" android:id="0x7f0d00ee" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+        <Button android:layout_gravity="11" android:id="0x7f0d00ef" android:layout_width="100dp" android:layout_height="-2" android:layout_margin="1dp" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f060029" android:layout_weight="1.0" style="?unknown_attr_ref: 1010049" />
+        <Button android:layout_gravity="11" android:id="0x7f0d00f0" android:layout_width="110dp" android:layout_height="-2" android:layout_margin="1dp" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f060098" android:layout_weight="1.0" style="?unknown_attr_ref: 1010049" />
+        <Button android:layout_gravity="11" android:id="0x7f0d00f1" android:layout_width="100dp" android:layout_height="-2" android:layout_margin="1dp" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f0600d4" android:layout_weight="1.0" style="?unknown_attr_ref: 1010049" />
+    </LinearLayout>
+    <ListView android:id="0x102000a" android:layout_width="-1" android:layout_height="0dp" android:transcriptMode="1" android:layout_weight="1.0" />
+    <TextView android:textSize="16dp" android:textStyle="1" android:textColor="#000000" android:gravity="15" android:id="0x7f0d00f2" android:background="#dcdcdc" android:layout_width="-1" android:layout_height="30dp" />
+</LinearLayout>

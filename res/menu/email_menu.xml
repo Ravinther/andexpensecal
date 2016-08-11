@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item android:icon="0x7f020060" android:id="0x7f0d02f9" android:title="Email" android:showAsAction="2" />
+</menu>

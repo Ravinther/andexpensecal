@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="#ff000000" android:layout_width="-1" android:layout_height="-1">
+    <com.expensemanager.calculator.CalculatorDisplay android:id="0x7f0d001c" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0">
+        <EditText style="0x7f080011" />
+        <EditText style="0x7f080011" />
+    </com.expensemanager.calculator.CalculatorDisplay>
+    <LinearLayout android:layout_gravity="11" android:orientation="1" android:id="0x7f0d001d" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="4.0"
+        <LinearLayout android:layout_width="-1" android:layout_height="0dp" android:layout_weight="3.0">
+            <com.expensemanager.calculator.ColorButton android:id="0x7f0d001e" android:text="0x7f0600af" style="0x7f080010" />
+            <com.expensemanager.calculator.ColorButton android:id="0x7f0d001f" android:text="0x7f0600b0" style="0x7f080010" />
+            <com.expensemanager.calculator.ColorButton android:id="0x7f0d0020" android:text="0x7f0600b1" style="0x7f080010" />
+            <com.expensemanager.calculator.ColorButton android:id="0x7f0d0021" android:text="0x7f0600b6" style="0x7f08000f" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="0dp" android:layout_weight="3.0">
+            <com.expensemanager.calculator.ColorButton android:id="0x7f0d0022" android:text="0x7f0600ac" style="0x7f080010" />
+            <com.expensemanager.calculator.ColorButton android:id="0x7f0d0023" android:text="0x7f0600ad" style="0x7f080010" />
+            <com.expensemanager.calculator.ColorButton android:id="0x7f0d0024" android:text="0x7f0600ae" style="0x7f080010" />
+            <com.expensemanager.calculator.ColorButton android:id="0x7f0d0025" android:text="0x7f060141" style="0x7f08000f" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="0dp" android:layout_weight="3.0">
+            <com.expensemanager.calculator.ColorButton android:id="0x7f0d0026" android:text="0x7f0600a9" style="0x7f080010" />
+            <com.expensemanager.calculator.ColorButton android:id="0x7f0d0027" android:text="0x7f0600aa" style="0x7f080010" />
+            <com.expensemanager.calculator.ColorButton android:id="0x7f0d0028" android:text="0x7f0600ab" style="0x7f080010" />
+            <com.expensemanager.calculator.ColorButton android:id="0x7f0d0029" android:text="0x7f060133" style="0x7f08000f" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="0dp" android:layout_weight="3.0">
+            <com.expensemanager.calculator.ColorButton android:id="0x7f0d002a" android:text="0x7f0600a8" style="0x7f080010" />
+            <com.expensemanager.calculator.ColorButton android:id="0x7f0d002b" android:text="0x7f0600b8" style="0x7f080010" />
+            <com.expensemanager.calculator.ColorButton android:id="0x7f0d002c" android:text="0x7f0600e6" style="0x7f08000f" />
+            <com.expensemanager.calculator.ColorButton android:id="0x7f0d002d" android:text="0x7f06017b" style="0x7f08000f" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="0dp" android:layout_weight="3.0">
+            <com.expensemanager.calculator.ColorButton android:id="0x7f0d002e" android:layout_width="0dp" android:layout_height="-1" android:layout_marginRight="0dp" android:text="%" android:layout_weight="1.0" style="0x7f08000f" />
+            <com.expensemanager.calculator.ColorButton android:textSize="32px" android:id="0x7f0d002f" android:layout_width="0dp" android:layout_height="-1" android:layout_marginRight="0dp" android:text="AC" android:layout_weight="1.0" style="0x7f08000f" />
+            <com.expensemanager.calculator.ColorButton android:textSize="32px" android:id="0x7f0d0030" android:layout_width="0dp" android:layout_height="-1" android:layout_marginRight="0dp" android:text="C" android:layout_weight="1.0" style="0x7f08000f" />
+            <com.expensemanager.calculator.ColorButton android:textSize="32px" android:id="0x7f0d0031" android:layout_width="0dp" android:layout_height="-1" android:layout_marginRight="0dp" android:text="OK" android:layout_weight="1.0" style="0x7f08000f" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

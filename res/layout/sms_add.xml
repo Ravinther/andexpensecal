@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="0x7f0d0052" android:scrollbars="200" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:id="0x7f0d0075" android:paddingLeft="5dp" android:paddingTop="5dp" android:paddingRight="5dp" android:layout_width="-1" android:layout_height="-2">
+        <RelativeLayout android:gravity="10" android:orientation="0" android:id="0x7f0d0076" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="16dp" android:textStyle="1" android:id="0x7f0d004a" android:layout_width="92dp" android:layout_height="-2" android:text="0x7f06001e" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+            <ImageButton android:id="0x7f0d004b" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020006" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+            <TextView android:textSize="16dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d004c" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:text="Personal Expense" android:layout_toLeftOf="0x7f0d004b" android:layout_toRightOf="0x7f0d004a" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <RelativeLayout android:gravity="10" android:orientation="0" android:id="0x7f0d007f" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="16dp" android:textStyle="1" android:id="0x7f0d0080" android:layout_width="92dp" android:layout_height="-2" android:text="0x7f060108" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+            <ImageButton android:id="0x7f0d0081" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020006" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+            <TextView android:textSize="16dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d00fc" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="0x7f0d0081" android:layout_toRightOf="0x7f0d0080" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <TextView android:textStyle="1" android:textColor="#33b5e5" android:id="0x7f0d008a" android:background="0x1080062" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f06013e" />
+        <LinearLayout android:orientation="1" android:id="0x7f0d008b" android:visibility="2" android:layout_width="-1" android:layout_height="-2">
+            <RelativeLayout android:gravity="10" android:orientation="0" android:id="0x7f0d008c" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:textSize="16dp" android:textStyle="1" android:id="0x7f0d008d" android:layout_width="92dp" android:layout_height="-2" android:text="0x7f06006b" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+                <ImageButton android:id="0x7f0d008e" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020006" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+                <TextView android:textSize="16dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d008f" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0601f8" android:layout_toLeftOf="0x7f0d008e" android:layout_toRightOf="0x7f0d008d" android:layout_centerVertical="true" />
+            </RelativeLayout>
+            <RelativeLayout android:orientation="0" android:id="0x7f0d0090" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:textSize="16dp" android:textStyle="1" android:gravity="30" android:id="0x7f0d0091" android:layout_width="92dp" android:layout_height="-1" android:drawSelectorOnTop="true" android:text="0x7f06016b" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+                <ImageButton android:id="0x7f0d0092" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020006" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+                <TextView android:textSize="16dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d0093" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="0x7f0d0092" android:layout_toRightOf="0x7f0d0091" android:layout_centerVertical="true" />
+            </RelativeLayout>
+            <RelativeLayout android:orientation="0" android:id="0x7f0d0249" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:textSize="16dp" android:textStyle="1" android:gravity="30" android:id="0x7f0d024a" android:layout_width="92dp" android:layout_height="-1" android:drawSelectorOnTop="true" android:text="0x7f0601c5" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+                <ImageButton android:id="0x7f0d024b" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020006" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+                <TextView android:textSize="16dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d011c" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="0x7f0d024b" android:layout_toRightOf="0x7f0d024a" android:layout_centerVertical="true" />
+            </RelativeLayout>
+            <LinearLayout android:orientation="0" android:id="0x7f0d024c" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:textSize="16dp" android:textStyle="1" android:gravity="30" android:id="0x7f0d024d" android:layout_width="92dp" android:layout_height="-1" android:drawSelectorOnTop="true" android:text="0x7f060187" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+                <EditText android:id="0x7f0d0094" android:layout_width="-1" android:layout_height="-2" android:hint="credit or debt card # etc" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:layout_toLeftOf="0x7f0d0087">
+            <TextView android:textSize="16dp" android:textStyle="1" android:textColor="#33b5e5" android:id="0x7f0d024e" android:background="0x1080062" android:paddingTop="10dp" android:paddingBottom="10dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0601bd" />
+            <Button android:id="0x7f0d024f" android:layout_width="75dp" android:layout_height="-2" android:layout_margin="2dp" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f06010c" style="?unknown_attr_ref: 1010049" />
+        </LinearLayout>
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:layout_toLeftOf="0x7f0d0087">
+            <TextView android:textSize="16dp" android:textStyle="1" android:textColor="#33b5e5" android:id="0x7f0d0250" android:background="0x1080062" android:paddingTop="5dp" android:paddingBottom="5dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0600a5" />
+            <EditText android:id="0x7f0d0251" android:layout_width="-1" android:layout_height="-2" android:minHeight="40dp" />
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="11" android:orientation="0" android:paddingTop="5dp" android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_gravity="11" android:id="0x7f0d0252" android:visibility="2" android:layout_width="75dp" android:layout_height="-2" android:layout_margin="2dp" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f06009a" android:layout_weight="1.0" style="?unknown_attr_ref: 1010049" />
+            <Button android:layout_gravity="11" android:id="0x7f0d0253" android:layout_width="75dp" android:layout_height="-2" android:layout_margin="2dp" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f0601d4" android:layout_weight="1.0" style="?unknown_attr_ref: 1010049" />
+            <Button android:layout_gravity="11" android:id="0x7f0d0254" android:layout_width="75dp" android:layout_height="-2" android:layout_margin="2dp" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f06014f" android:layout_weight="1.0" style="?unknown_attr_ref: 1010049" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="0x7f0d0052" android:scrollbars="200" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:gravity="1" android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+        <Button android:textSize="0x7f070000" android:id="0x7f0d01f2" android:layout_width="500dp" android:layout_height="-2" android:layout_marginTop="10dp" android:text="0x7f060075" />
+        <LinearLayout android:orientation="1" android:id="0x7f0d01f3" android:padding="5dp" android:visibility="0" android:layout_width="-1" android:layout_height="-1" android:layout_weight="1.0">
+            <TextView android:id="0x7f0d01f4" android:layout_width="-1" android:layout_height="-2" android:text="0x7f06010b" />
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:id="0x7f0d00bb" android:paddingTop="15dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0600c5" />
+            <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:textSize="0x7f070000" android:layout_width="-2" android:layout_height="-2" android:layout_margin="1dp" android:text="0x7f0600b9" />
+                <Button android:textSize="0x7f070000" android:id="0x7f0d01f5" android:layout_width="-1" android:layout_height="-2" android:layout_margin="1dp" android:text="expensemanager/db" />
+            </LinearLayout>
+            <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <Button android:textSize="0x7f070000" android:id="0x7f0d00bc" android:layout_width="-1" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0600cc" android:layout_weight="1.0" />
+                <Button android:textSize="0x7f070000" android:id="0x7f0d00bd" android:layout_width="-1" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0600bf" android:layout_weight="1.0" />
+            </LinearLayout>
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:id="0x7f0d00be" android:paddingTop="15dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0600c3" />
+            <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:textSize="0x7f070000" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0600b9" />
+                <Button android:textSize="0x7f070000" android:id="0x7f0d01f6" android:layout_width="-1" android:layout_height="-2" android:text="expensemanager/csv" />
+            </LinearLayout>
+            <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <Button android:textSize="0x7f070000" android:id="0x7f0d00bf" android:layout_width="-1" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0600cb" android:layout_weight="1.0" />
+                <Button android:textSize="0x7f070000" android:id="0x7f0d00c0" android:layout_width="-1" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0600be" android:layout_weight="1.0" />
+            </LinearLayout>
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:id="0x7f0d00c1" android:paddingTop="15dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0600c4" />
+            <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:textSize="0x7f070000" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0600b9" />
+                <Button android:textSize="0x7f070000" android:id="0x7f0d01f7" android:layout_width="-1" android:layout_height="-2" android:layout_margin="5dp" android:text="expensemanager/receipt" />
+            </LinearLayout>
+            <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <Button android:textSize="0x7f070000" android:id="0x7f0d00c2" android:layout_width="-1" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0600ce" android:layout_weight="1.0" />
+                <Button android:textSize="0x7f070000" android:id="0x7f0d00c3" android:layout_width="-1" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f0600c1" android:layout_weight="1.0" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

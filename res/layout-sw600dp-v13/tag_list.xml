@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:id="0x7f0d00f3" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+        <Button android:textSize="0x7f070001" android:id="0x7f0d012f" android:layout_width="-2" android:layout_height="-2" android:layout_margin="2dp" android:text="0x7f0600d4" android:layout_weight="1.0" />
+        <Button android:textSize="0x7f070001" android:id="0x7f0d0256" android:layout_width="-2" android:layout_height="-2" android:layout_margin="2dp" android:text="0x7f060199" android:layout_weight="1.0" />
+        <Button android:textSize="0x7f070001" android:id="0x7f0d00b7" android:layout_width="-2" android:layout_height="-2" android:layout_margin="2dp" android:text="0x7f06014f" android:layout_weight="1.0" />
+    </LinearLayout>
+    <ListView android:id="0x102000a" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="0x7f0d0052" android:scrollbars="200" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+        <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:gravity="11" android:id="0x7f0d0136" android:layout_width="-2" android:layout_height="-1" android:text="0x7f060084" />
+            <RadioGroup android:orientation="0" android:id="0x7f0d00f5" android:layout_width="-1" android:layout_height="-2">
+                <RadioButton android:textSize="0x7f070000" android:id="0x7f0d0137" android:layout_width="-2" android:layout_height="-2" android:checked="true" android:text="0x7f06007a" />
+                <RadioButton android:textSize="0x7f070000" android:id="0x7f0d0138" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0601af" />
+            </RadioGroup>
+        </LinearLayout>
+        <TextView android:textSize="0x7f070000" android:id="0x7f0d0139" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0600f4" />
+        <Button android:textSize="0x7f070000" android:textStyle="1" android:layout_gravity="11" android:id="0x7f0d0194" android:layout_width="400dp" android:layout_height="-2" android:text="0x7f0600f3" />
+        <TextView android:textSize="0x7f070000" android:id="0x7f0d013b" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0600d9" />
+        <Button android:textSize="0x7f070000" android:textStyle="1" android:layout_gravity="11" android:id="0x7f0d0195" android:layout_width="400dp" android:layout_height="-2" android:text="0x7f0600d8" />
+        <TextView android:textSize="0x7f070000" android:id="0x7f0d013d" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060112" />
+        <Button android:textSize="0x7f070000" android:textStyle="1" android:layout_gravity="11" android:id="0x7f0d0196" android:layout_width="400dp" android:layout_height="-2" android:text="0x7f060111" />
+        <TextView android:textSize="0x7f070000" android:textStyle="1" android:id="0x7f0d0197" android:paddingLeft="5dp" android:paddingTop="5dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0600fb" />
+        <TextView android:textSize="25dp" android:textStyle="2" android:id="0x7f0d0198" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0600fc" />
+        <LinearLayout android:orientation="0" android:padding="10dp" android:layout_width="-1" android:layout_height="-2">
+            <Spinner android:id="0x7f0d0199" android:layout_width="0dp" android:layout_height="-2" android:drawSelectorOnTop="true" android:prompt="0x7f06017a" android:layout_weight="4.0" />
+            <Button android:textSize="0x7f070000" android:textStyle="1" android:id="0x7f0d019a" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f06014f" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <RadioGroup android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+                <RadioButton android:textSize="0x7f070000" android:id="0x7f0d019b" android:layout_width="-2" android:layout_height="-2" android:checked="true" android:text="MM/dd/yyyy" />
+                <RadioButton android:textSize="0x7f070000" android:id="0x7f0d019c" android:layout_width="-2" android:layout_height="-2" android:text="dd/MM/yyyy" />
+            </RadioGroup>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

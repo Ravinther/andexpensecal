@@ -1,0 +1,43 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: andexpensecal.apk
+compressionType: false
+doNotCompress:
+- arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '14'
+  targetSdkVersion: '21'
+sharedLibrary: false
+unknownFiles:
+  MANIFEST.MF: '8'
+  LICENSE.txt: '8'
+  project.properties: '8'
+  build.gradle: '8'
+  proguard-project.txt: '8'
+  pom.xml: '8'
+  ic_launcher-web.png: '8'
+  functions.properties: '8'
+  functions_da.properties: '8'
+  functions_de.properties: '8'
+  functions_en.properties: '8'
+  functions_es.properties: '8'
+  functions_fr.properties: '8'
+  functions_nl.properties: '8'
+  org/apache/http/entity/mime/version.properties: '8'
+  org/achartengine/image/zoom-1.png: '8'
+  org/achartengine/image/zoom_in.png: '8'
+  org/achartengine/image/zoom_out.png: '8'
+  bin/AndroidManifest.xml: '8'
+  bin/mpchartlib.jar: '8'
+  com/google/api/client/googleapis/google.jks: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.1.1
+versionInfo:
+  versionCode: '46'
+  versionName: 2.4.5

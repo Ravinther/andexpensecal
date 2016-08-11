@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="0x7f0d0052" android:scrollbars="200" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:id="0x7f0d0075" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+        <RelativeLayout android:gravity="10" android:orientation="0" android:id="0x7f0d00fa" android:background="0x1080062" android:padding="5dp" android:layout_width="-2" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:id="0x7f0d0101" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f060092" android:layout_centerVertical="true" />
+            <ImageView android:id="0x7f0d0171" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020005" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d00fc" android:padding="5dp" android:layout_width="250dp" android:layout_height="-2" android:layout_toLeftOf="0x7f0d0102" android:layout_toRightOf="0x7f0d0101" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:id="0x7f0d01e1" android:layout_width="250dp" android:layout_height="-2" android:text="From" />
+            <EditText android:textSize="0x7f070000" android:id="0x7f0d01e2" android:layout_width="-1" android:layout_height="-2" android:hint="Name" android:selectAllOnFocus="true" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:id="0x7f0d01e3" android:layout_width="250dp" android:layout_height="-2" android:text="" />
+            <EditText android:textSize="0x7f070000" android:id="0x7f0d01e4" android:layout_width="-1" android:layout_height="-2" android:hint="Email" android:selectAllOnFocus="true" />
+        </LinearLayout>
+        <RelativeLayout android:gravity="10" android:orientation="0" android:padding="5dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:id="0x7f0d01e5" android:layout_width="250dp" android:layout_height="-1" android:text="Submit to" android:layout_centerVertical="true" />
+            <ImageButton android:id="0x7f0d01e6" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020006" android:layout_alignParentRight="true" />
+            <EditText android:textSize="0x7f070000" android:id="0x7f0d01e7" android:layout_width="-1" android:layout_height="-2" android:selectAllOnFocus="true" android:layout_toLeftOf="0x7f0d01e6" android:layout_toRightOf="0x7f0d01e5" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <RelativeLayout android:orientation="0" android:padding="5dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:id="0x7f0d00ca" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f06004b" android:layout_centerVertical="true" />
+            <ImageButton android:id="0x7f0d007d" android:layout_width="-2" android:layout_height="-2" android:src="0x7f02001d" android:layout_alignParentRight="true" />
+            <EditText android:textSize="0x7f070000" android:id="0x7f0d0067" android:layout_width="-2" android:layout_height="-2" android:selectAllOnFocus="true" android:digits="0123456789." android:layout_toLeftOf="0x7f0d007d" android:layout_toRightOf="0x7f0d00ca" android:inputType="2002" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f0600a5" />
+            <EditText android:textSize="0x7f070000" android:id="0x7f0d010b" android:layout_width="-1" android:layout_height="-2" android:selectAllOnFocus="true" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f060073" />
+            <EditText android:textSize="0x7f070000" android:id="0x7f0d01e8" android:layout_width="-1" android:layout_height="-2" android:selectAllOnFocus="true" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:layout_width="250dp" android:layout_height="-1" android:text="0x7f06007f" />
+            <EditText android:textSize="0x7f070000" android:id="0x7f0d01e9" android:layout_width="-1" android:layout_height="-2" android:selectAllOnFocus="true" />
+        </LinearLayout>
+        <LinearLayout android:orientation="1" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:layout_width="-2" android:layout_height="-2" android:text="0x7f06007b" />
+            <EditText android:textSize="0x7f070000" android:id="0x7f0d01ea" android:layout_width="-1" android:layout_height="-2" android:selectAllOnFocus="true" />
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="11" android:orientation="0" android:paddingTop="10dp" android:layout_width="-1" android:layout_height="-2">
+            <Button android:textSize="0x7f070000" android:layout_gravity="11" android:id="0x7f0d01eb" android:layout_width="100dp" android:layout_height="-2" android:layout_margin="5dp" android:text="Excel" android:layout_weight="1.0" />
+            <Button android:textSize="0x7f070000" android:layout_gravity="11" android:id="0x7f0d01ec" android:layout_width="100dp" android:layout_height="-2" android:layout_margin="5dp" android:text="PDF" android:layout_weight="1.0" />
+            <Button android:textSize="0x7f070000" android:layout_gravity="11" android:id="0x7f0d01ed" android:layout_width="100dp" android:layout_height="-2" android:layout_margin="5dp" android:text="HTML" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

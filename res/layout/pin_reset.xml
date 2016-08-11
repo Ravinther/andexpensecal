@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1" android:layout_weight="1.0">
+    <LinearLayout android:layout_gravity="11" android:orientation="0" android:id="0x7f0d005c" android:padding="10dp" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true">
+        <Button android:id="0x7f0d006a" android:layout_width="150dp" android:layout_height="-2" android:layout_margin="2dp" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f06006a" android:layout_weight="1.0" />
+        <Button android:id="0x7f0d006b" android:layout_width="150dp" android:layout_height="-2" android:layout_margin="2dp" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f06014f" android:layout_weight="1.0" />
+    </LinearLayout>
+    <TextView android:textSize="17dp" android:id="0x7f0d0235" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f06015c" />
+    <ScrollView android:id="0x7f0d0052" android:visibility="0" android:scrollbars="200" android:layout_width="-1" android:layout_height="-1" android:layout_above="0x7f0d005c" android:layout_below="0x7f0d0235">
+        <LinearLayout android:orientation="1" android:id="0x7f0d0229" android:padding="5dp" android:layout_width="-1" android:layout_height="-1"
+            <LinearLayout android:orientation="1" android:id="0x7f0d0236" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:layout_width="-1" android:layout_height="-2" android:text="0x7f0601a9" />
+                <TextView android:textSize="18dp" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d0237" android:layout_width="-1" android:layout_height="-2" />
+                <TextView android:layout_width="-1" android:layout_height="-2" android:text="0x7f0601a8" />
+                <EditText android:textSize="18dp" android:id="0x7f0d0238" android:layout_width="-1" android:layout_height="-2" />
+            </LinearLayout>
+            <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:layout_width="120dp" android:layout_height="-2" android:text="0x7f060076" />
+                <EditText android:textSize="18dp" android:id="0x7f0d0239" android:layout_width="-1" android:layout_height="-2" android:password="true" android:digits="0123456789" android:inputType="2" />
+            </LinearLayout>
+            <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:layout_width="120dp" android:layout_height="-2" android:text="0x7f06007e" />
+                <EditText android:textSize="18dp" android:id="0x7f0d023a" android:layout_width="-1" android:layout_height="-2" android:password="true" android:digits="0123456789" android:inputType="2" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item android:icon="0x7f020066" android:id="0x7f0d02d2" android:title="0x7f0601a6" android:showAsAction="a" android:actionViewClass="android.widget.SearchView" />
+    <item android:icon="0x7f02005f" android:id="0x7f0d02cb" android:title="0x7f060029" android:showAsAction="2" />
+    <item android:id="0x7f0d010c" android:title="0x7f06009b" android:showAsAction="1" />
+</menu>

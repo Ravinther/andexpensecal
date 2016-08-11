@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="CustomTabPageIndicator" parent="@style/Widget.TabPageIndicator">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffcc0000</item>
+        <item name="android:background">@drawable/custom_tab_indicator</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+        <item name="android:fadingEdge">horizontal</item>
+        <item name="android:fadingEdgeLength">8.0dip</item>
+        <item name="android:divider">@drawable/custom_tab_indicator_divider</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:dividerPadding">10.0dip</item>
+    </style>
+    <style name="MyDarkHoloTheme" parent="@android:style/Theme.Holo">
+        <item name="green">@color/green_dark</item>
+        <item name="red">@color/red_dark</item>
+    </style>
+    <style name="MyDarkMaterialTheme" parent="@android:style/Theme.Material">
+        <item name="green">@color/green_dark</item>
+        <item name="red">@color/red_dark</item>
+    </style>
+    <style name="MyLightHoloTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="green">@color/green_light</item>
+        <item name="red">@color/red_light</item>
+        <item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>
+    </style>
+    <style name="MyLightMaterialTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="green">@color/green_light</item>
+        <item name="red">@color/red_light</item>
+        <item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>
+    </style>
+    <style name="StyledIndicators" parent="@android:style/Theme.Light">
+        <item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>
+    </style>
+    <style name="TextAppearance.TabPageIndicator" parent="@style/Widget">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/vpi__dark_theme</item>
+    </style>
+    <style name="Theme.IAPTheme" parent="@android:style/Theme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="Theme.PageIndicatorDefaults" parent="@android:style/Theme">
+        <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+    </style>
+    <style name="Widget" />
+    <style name="Widget.IconPageIndicator" parent="@style/Widget">
+        <item name="android:layout_marginLeft">6.0dip</item>
+        <item name="android:layout_marginRight">6.0dip</item>
+    </style>
+    <style name="Widget.TabPageIndicator" parent="@style/Widget">
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/vpi__tab_indicator</item>
+        <item name="android:paddingLeft">22.0dip</item>
+        <item name="android:paddingTop">12.0dip</item>
+        <item name="android:paddingRight">22.0dip</item>
+        <item name="android:paddingBottom">12.0dip</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="budgetBarStyle" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">20.0dip</item>
+        <item name="android:minHeight">18.0dip</item>
+    </style>
+    <style name="button_style">
+        <item name="android:textSize">40.0px</item>
+        <item name="android:background">@drawable/button</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">1.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="digit_button_style" parent="@style/button_style">
+        <item name="android:background">@drawable/blue_button</item>
+    </style>
+    <style name="display_style">
+        <item name="android:textSize">40.0px</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center|right</item>
+        <item name="android:padding">5.0dip</item>
+        <item name="android:scrollbars">none</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+    </style>
+    <style name="passcode_button_style">
+        <item name="android:textSize">36.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:background">@drawable/passcode_button</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">1.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+</resources>

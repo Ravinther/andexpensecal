@@ -1,0 +1,6 @@
+
+Manifest-Version: 1.0
+Archiver-Version: jar
+Created-By: googleapis.com
+Built-By: Google, Inc.
+Build-Jdk: 

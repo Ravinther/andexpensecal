@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="0x7f0d0052" android:scrollbars="200" android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:orientation="1" android:id="0x7f0d0075" android:padding="5dp" android:layout_width="-1" android:layout_height="-2"
+        <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:gravity="5" android:id="0x7f0d0088" android:paddingRight="5dp" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f0600a5" />
+            <EditText android:textSize="0x7f070000" android:id="0x7f0d01c9" android:layout_width="-1" android:layout_height="-2" />
+        </LinearLayout>
+        <RelativeLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:gravity="5" android:id="0x7f0d007c" android:paddingRight="5dp" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f06004b" android:layout_centerVertical="true" />
+            <ImageButton android:id="0x7f0d007d" android:layout_width="-2" android:layout_height="-2" android:src="0x7f02001d" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            <EditText android:textSize="0x7f070000" android:id="0x7f0d01ca" android:layout_width="-1" android:layout_height="-2" android:digits="0123456789." android:layout_toLeftOf="0x7f0d007d" android:layout_toRightOf="0x7f0d007c" android:inputType="2002" />
+        </RelativeLayout>
+        <RelativeLayout android:orientation="0" android:id="0x7f0d01cb" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:gravity="5" android:id="0x7f0d01cc" android:paddingRight="5dp" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f0601d3" android:layout_centerVertical="true" />
+            <ImageButton android:id="0x7f0d009c" android:layout_width="-2" android:layout_height="-2" android:src="0x7f02001d" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            <EditText android:textSize="0x7f070000" android:id="0x7f0d01cd" android:layout_width="-1" android:layout_height="-2" android:digits="0123456789." android:layout_toLeftOf="0x7f0d009c" android:layout_toRightOf="0x7f0d01cc" android:inputType="2002" />
+        </RelativeLayout>
+        <RelativeLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:gravity="5" android:id="0x7f0d01ce" android:paddingRight="5dp" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f06014e" />
+            <Button android:id="0x7f0d01cf" android:layout_width="65dp" android:layout_height="-2" android:text="0x7f06010c" android:layout_alignParentRight="true" style="?unknown_attr_ref: 1010049" />
+            <EditText android:textSize="0x7f070000" android:id="0x7f0d01d0" android:layout_width="-1" android:layout_height="-2" android:digits="0123456789" android:layout_toLeftOf="0x7f0d01cf" android:layout_toRightOf="0x7f0d01ce" android:inputType="2002" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="0" android:id="0x7f0d01d1" android:padding="1dp" android:layout_width="-1" android:layout_height="-2">
+            <CheckBox android:textSize="0x7f070000" android:textStyle="1" android:layout_gravity="10" android:id="0x7f0d01d2" android:paddingRight="15dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060197" />
+            <Button android:textSize="0x7f070000" android:id="0x7f0d01d3" android:layout_width="100dp" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f06010c" style="?unknown_attr_ref: 1010049" />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:gravity="5" android:paddingRight="5dp" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f060103" />
+            <Spinner android:id="0x7f0d01d4" android:layout_width="-1" android:layout_height="-2" android:drawSelectorOnTop="true" android:prompt="0x7f060105" />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:gravity="5" android:paddingRight="5dp" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f060101" />
+            <Button android:textSize="0x7f070000" android:gravity="13" android:id="0x7f0d01d5" android:layout_width="-1" android:layout_height="-2" />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f0d01d6" android:padding="5dp" android:visibility="2" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:gravity="5" android:id="0x7f0d01d7" android:paddingRight="5dp" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f060107" />
+            <Button android:textSize="0x7f070000" android:gravity="13" android:id="0x7f0d01d8" android:layout_width="-1" android:layout_height="-2" />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:gravity="5" android:id="0x7f0d0123" android:paddingRight="5dp" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f060164" />
+            <Button android:textSize="0x7f070000" android:gravity="13" android:id="0x7f0d01d9" android:layout_width="-1" android:layout_height="-2" />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:gravity="5" android:paddingRight="5dp" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f06006b" />
+            <Button android:textSize="0x7f070000" android:gravity="13" android:id="0x7f0d01da" android:paddingLeft="10dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0601f8" />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:gravity="5" android:id="0x7f0d0093" android:paddingRight="5dp" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f06016b" />
+            <Button android:textSize="0x7f070000" android:gravity="13" android:id="0x7f0d01db" android:layout_width="-1" android:layout_height="-2" />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:gravity="5" android:paddingRight="5dp" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f0601c5" />
+            <Button android:textSize="0x7f070000" android:gravity="13" android:id="0x7f0d01dc" android:layout_width="-1" android:layout_height="-2" />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:gravity="5" android:paddingRight="5dp" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f06018a" />
+            <Spinner android:id="0x7f0d00d5" android:layout_width="-1" android:layout_height="-2" android:drawSelectorOnTop="true" android:prompt="0x7f06018d" />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f070000" android:textStyle="1" android:gravity="5" android:paddingRight="5dp" android:layout_width="250dp" android:layout_height="-2" android:text="0x7f0601df" />
+            <Spinner android:id="0x7f0d00b5" android:layout_width="-1" android:layout_height="-2" android:drawSelectorOnTop="true" android:prompt="0x7f06018d" />
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="11" android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <Button android:textSize="0x7f070000" android:layout_gravity="11" android:id="0x7f0d009e" android:visibility="2" android:layout_width="100dp" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f06009a" android:layout_weight="1.0" />
+            <Button android:textSize="0x7f070000" android:layout_gravity="11" android:id="0x7f0d009f" android:layout_width="100dp" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f06006a" android:layout_weight="1.0" />
+            <Button android:textSize="0x7f070000" android:layout_gravity="11" android:id="0x7f0d00a0" android:layout_width="100dp" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f06014f" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

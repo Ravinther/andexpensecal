@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:padding="10dp" android:layout_width="-1" android:layout_height="-2">
+    <RelativeLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textSize="0x7f070001" android:textStyle="1" android:id="0x7f0d0015" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+        <TextView android:textSize="0x7f070001" android:textStyle="1" android:id="0x7f0d0017" android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="0x7f0d0015" android:layout_alignParentLeft="true" />
+    </RelativeLayout>
+    <RelativeLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textSize="0x7f070001" android:id="0x7f0d0016" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+        <TextView android:textSize="0x7f070001" android:id="0x7f0d0018" android:paddingRight="5dp" android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="0x7f0d0016" android:layout_alignParentLeft="true" />
+    </RelativeLayout>
+    <RelativeLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textSize="0x7f070001" android:gravity="3" android:id="0x7f0d0019" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true" />
+        <TextView android:textSize="0x7f070001" android:id="0x7f0d001a" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <com.expensemanager.TextProgressBar android:id="0x7f0d001b" android:layout_width="-1" android:layout_height="-2" android:maxHeight="12dp" android:max="100" style="0x7f08000e" />
+</LinearLayout>

@@ -1,0 +1,1781 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: OKquQUVodsIBWw4yzI1reOayEfQ=
+
+Name: res/layout-sw600dp-v13/expense_details.xml
+SHA1-Digest: 4RGsQxyMGkUBzNn/tUg/hw6Stko=
+
+Name: res/drawable/gallery_background.xml
+SHA1-Digest: pnDPc+xJE0C+Xnu0z/DaIi3LWwc=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: hxPASbF5x5tvNzqB2Sbskdk6Aik=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: am6e9g4ZxkzrNl0kYCI9SErpqwY=
+
+Name: res/drawable/widget_red_selector.xml
+SHA1-Digest: sLfvrgPDaNiW+d0JVO384Rn3Db8=
+
+Name: res/drawable/button_green_selector.xml
+SHA1-Digest: gxz3F36UJGkupsmN1lTH4Nmmr9s=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: U5TdMp2zphtmlpWCdW1Z+FJ2o4A=
+
+Name: res/layout-sw600dp-v13/expense_budget_onetime_add.xml
+SHA1-Digest: bQnk7eLFBaWZjSoxPgEIDM2n2XA=
+
+Name: res/drawable/custom_tab_indicator_selected_focused.9.png
+SHA1-Digest: 67dEFBMUoK/Qs5dyQ9mi0nNHa3w=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: vaBFRXPzebcTp2nl0UTmAq6JgFM=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: MKZrWw9zH8dn9/6Dy2wTfm/rT/w=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: 8KwAgeweT8yIIKMb+5lX0KAHePk=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: GHZ0WF7sh5tzOuMH0rU9UpoEeJg=
+
+Name: res/drawable-xhdpi-v4/expense_manager.png
+SHA1-Digest: knCC9gz+4SWX1e8ry9Oca40ZNYE=
+
+Name: res/layout-sw600dp-v13/expense_row.xml
+SHA1-Digest: qRXNsYwbPyTKJ1LBsEpRtsX1mZ8=
+
+Name: res/layout/loan_calculator.xml
+SHA1-Digest: AhbE1z0VnC1L9FaFjYhMgikoIzI=
+
+Name: res/layout-sw600dp-v13/list_item_icon_text.xml
+SHA1-Digest: ZKV7ZbvZraLT4mE2wys5l9ehE6c=
+
+Name: res/drawable/home_button_green.xml
+SHA1-Digest: cqYDZmJvJTScfws4l9gpBUXMnBo=
+
+Name: res/layout-sw600dp-v13/calculator.xml
+SHA1-Digest: 404OnG0i/XcWBQqmEEoVS8GiV9A=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: 1ZGPnFQYex6yv416YvcOb67P5l8=
+
+Name: res/layout-sw600dp-v13/expense_autofill_list.xml
+SHA1-Digest: JWjvLtKAskDClxjC7MIvoS35ThA=
+
+Name: res/drawable/icon_alert.png
+SHA1-Digest: IXnrPyttEG94Z/dFDU++ndpgSo4=
+
+Name: functions_es.properties
+SHA1-Digest: 69JsTWc+verpiTV/r0pGpSmWs3s=
+
+Name: res/layout/chart_new_vbar_pie.xml
+SHA1-Digest: Bos+5juQkOhkaBoNKiEv+jVI1xU=
+
+Name: res/drawable/home_button_gray.xml
+SHA1-Digest: a0P3rSQEgnEPPLJqVTz8ae/YIJk=
+
+Name: res/drawable-hdpi-v4/calendar_prev_arrow.png
+SHA1-Digest: X+5Lg7AcubbubvXwhEZvosAQwqw=
+
+Name: res/layout-sw600dp-v13/interest_row.xml
+SHA1-Digest: CFbWNprNM/rZAzFpPQQmBrrhbcs=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: BTeLuLdg5icJMgMtSDAKBZt9ygk=
+
+Name: res/layout/interest_row.xml
+SHA1-Digest: i7xj3darXC9wcJjyKbs6Sqeo33Q=
+
+Name: res/layout-sw600dp-v13/note_list.xml
+SHA1-Digest: Z2ZjAXt3qN0VfmKZhPuZuFsPt68=
+
+Name: res/drawable/ic_action_select_all.png
+SHA1-Digest: bndyIq2L0CEVIodLnOHp/yTyf68=
+
+Name: res/drawable-xhdpi-v4/ic_income.png
+SHA1-Digest: V/6SVxotM7kwzfoTR68FaHfWRXw=
+
+Name: res/drawable-xhdpi-v4/vpi__tab_selected_pressed_holo.9.png
+SHA1-Digest: 65ycMKe8ap8xSgKRX7dfwqzA9yc=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_dar
+ k.9.png
+SHA1-Digest: b7p49PePpoiSa638M7tjwGcWek8=
+
+Name: res/layout-sw600dp-v13/expense_repeating_row.xml
+SHA1-Digest: qVZeJF5Duobi+Fd6Kf7CfVFUFwg=
+
+Name: res/drawable-xhdpi-v4/expense_manager_pro.png
+SHA1-Digest: rZ8rxzAp3B7RhOi8wdbarkAZiAM=
+
+Name: res/drawable/layer_list.xml
+SHA1-Digest: igCh1KIqZWHS5KaW2pYDt8mdc7w=
+
+Name: res/drawable/common_signin_btn_text_light.xml
+SHA1-Digest: A/6FckJOTf1VqmfB2Cilx3U02Gc=
+
+Name: res/layout/chart_new_bar.xml
+SHA1-Digest: v+00pOogyT73aRY59+WcCIYJ0VM=
+
+Name: res/menu/email_menu.xml
+SHA1-Digest: 2TJFAMz7av1bvUTW0ulKd5xw+C0=
+
+Name: res/layout/listview.xml
+SHA1-Digest: 1asDWMXZokp4wUuGbYC5O1s/k8Y=
+
+Name: res/layout-sw600dp-v13/expense_expandable_subcategory_list.xml
+SHA1-Digest: HfB5AEBuKqzGInCgbnkvYq1Tzc8=
+
+Name: res/layout/google_drive.xml
+SHA1-Digest: s0hTKPI3fjCUle6ldOJsrCklpik=
+
+Name: res/drawable/ic_action_previous_item.png
+SHA1-Digest: jjjLt88Boa2GwjEl52JrrZgI6Ec=
+
+Name: res/menu/summary_time_menu.xml
+SHA1-Digest: Y75bmWDIut6nmP8Z6Ca+G/p6Iiw=
+
+Name: res/drawable-hdpi-v4/vpi__tab_unselected_holo.9.png
+SHA1-Digest: I08fjSGnV30ZULArnhkMGJFnoRY=
+
+Name: res/layout/widget_configure_summary.xml
+SHA1-Digest: 9JYrmayYJvA1qUYolBG4bD8Ynzg=
+
+Name: bin/mpchartlib.jar
+SHA1-Digest: 2WHNhyTTCDEbtB1u43lRovMW5BU=
+
+Name: res/drawable/ic_action_view_as_list.png
+SHA1-Digest: ACmGKtPJ1NlB4hchoaUDhkhbzHw=
+
+Name: res/drawable-mdpi-v11/icon_alert.png
+SHA1-Digest: o6MbalpuDzD4TS3Ucxas6c52rSM=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: XW516Uvxq8PEuDKhUHNJJxA4A4A=
+
+Name: res/layout-sw600dp-v13/expense_add.xml
+SHA1-Digest: RBnlsJdhzo832FlxLWt87ECBqgE=
+
+Name: res/layout-sw600dp-v13/note_add.xml
+SHA1-Digest: Mb9KsIKaVJgfHrJDQrrCfvu7SVE=
+
+Name: res/xml/widget_provider_calc.xml
+SHA1-Digest: wDASDLi568dOlpkcdEkkFC8o8o8=
+
+Name: META-INF/NOTICE.txt
+SHA1-Digest: OUVdvoIgmVpu937HWrQ73wOVWgU=
+
+Name: res/layout-sw600dp-v13/shoppinglist_row.xml
+SHA1-Digest: l1zHvWi9Mpbszp7kyaC1evcHOeQ=
+
+Name: res/layout/widget_configure_small.xml
+SHA1-Digest: RweMmT0/AuSUfg1RZSODCg/Ch14=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: z2jLKNjKsqeE9hE9ZTnNlsplmEg=
+
+Name: res/drawable/background_yellow_selector.xml
+SHA1-Digest: 5zPMcELp+NubL2/LYvWBeInABnc=
+
+Name: res/layout/sms_main.xml
+SHA1-Digest: Q51dl1eMYAzorsuGl97X1NtRV74=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: oCmT+PkD6Q6fj4015q1g9/We2iA=
+
+Name: res/layout-sw600dp-v13/expense_account_group.xml
+SHA1-Digest: yXHmw5QcOaEtQ6CGQ4HocGlF/+I=
+
+Name: res/menu/tag_menu.xml
+SHA1-Digest: DlcRr6pTUpfh1okygFCNzPvaZXk=
+
+Name: res/drawable-mdpi-v4/vpi__tab_unselected_focused_holo.9.png
+SHA1-Digest: dYgDuRDUBILaKn+CYrRuvNJFvtA=
+
+Name: res/layout/expense_reminder_transaction_header.xml
+SHA1-Digest: VdH7G9PUXqs5utFrgKwXy3/XXqc=
+
+Name: res/layout/expense_autofill_list.xml
+SHA1-Digest: Z3HOkflrprv8iDA8kjJN9MaqDPc=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: 8WSUJI4V8zSfLbKSu/Jez3l7A70=
+
+Name: res/layout/expense_details.xml
+SHA1-Digest: DvK+oHmNzazeIMlL0/Qm5kBv4l4=
+
+Name: res/layout/expense_backup.xml
+SHA1-Digest: IYcrCtoPvgmNV8stFAhiIfvN63o=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: w4ndgg6BiKguBZFQdX9FnzMb1sA=
+
+Name: res/drawable-xhdpi-v4/ic_action_go_to_today.png
+SHA1-Digest: tUA4vKmuAEF8IIIQjxH8NLViIUs=
+
+Name: res/layout-sw600dp-v13/interest_calculator.xml
+SHA1-Digest: qjeUFJoOeO5A0TQBYiZrINhqyUQ=
+
+Name: res/layout-sw600dp-v13/touch_list_row.xml
+SHA1-Digest: euHxeR1ht6OPa0iVIs6dVD7FB28=
+
+Name: res/layout/expense_budget_add.xml
+SHA1-Digest: WjZsRB/pQzYbgBNiBfXszKHlW9o=
+
+Name: res/layout/simple_spinner_item.xml
+SHA1-Digest: 6bEjKBefnWvwZj/6vSYA8BP/Pqg=
+
+Name: res/layout-sw600dp-v13/expense_export.xml
+SHA1-Digest: Fa2qGu7IKx8XVA0oMjaEC3fMu5g=
+
+Name: res/layout-sw600dp-v13/tip_calculator.xml
+SHA1-Digest: 3Q6Yw6fTEo5yxoDW713sheBmrRo=
+
+Name: res/layout-sw600dp-v13/expense_reminder_list.xml
+SHA1-Digest: HZPllpfb0gnxROBI8Rf8XWMY480=
+
+Name: res/layout/date_settings.xml
+SHA1-Digest: 5cxl36EneaSBXaXD9YyN58I6UEE=
+
+Name: res/layout-sw600dp-v13/listview_summary.xml
+SHA1-Digest: BzFeeVAR85rQYChvoxtQ1Pk8KQM=
+
+Name: res/drawable-hdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: rI0gdiJvh2WYP/GAD/oShQyW48k=
+
+Name: org/achartengine/image/zoom-1.png
+SHA1-Digest: IAzT9MYuTm6r/Z6HSq1HDIK54ko=
+
+Name: res/layout/expense_expandable_subcategory_list.xml
+SHA1-Digest: K8yXWLUKbaudC3vUwG6j9CcuoVU=
+
+Name: res/layout/expense_mileage_search.xml
+SHA1-Digest: 3s10vCYUYY7rq1K+DbsunOckuYw=
+
+Name: res/drawable/grabber.png
+SHA1-Digest: HedCRUrWNytuY2fKU5xmLEz9olQ=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: dmMebl/IZfmzRjJSrqewPF7ZptM=
+
+Name: res/layout/expense_export.xml
+SHA1-Digest: d3FCN5/r4cPrIdGcW8g00Q1ZFms=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: ofakGPbpsipAkNSIwW0MLvnk/O8=
+
+Name: res/layout-sw600dp-v13/expense_mileage_search.xml
+SHA1-Digest: l7EuVJW3cDUebAh0e4LKqM0PcMw=
+
+Name: res/drawable/expander_group.xml
+SHA1-Digest: cQTa7vD8F57/Ad+B4D+vLfcTKsM=
+
+Name: res/drawable-xhdpi-v4/ic_action_new_email.png
+SHA1-Digest: zttk/R55hVlbuA8DNnL34KcaOo8=
+
+Name: res/layout/expense_summary_activities_row.xml
+SHA1-Digest: lPgupqjYcGjpRNYBxfyTDZzzEKw=
+
+Name: res/drawable/right_arrow.xml
+SHA1-Digest: QDWve1TEu+SI7AN1AIrL0+6r2MY=
+
+Name: res/layout/widget_summary_row.xml
+SHA1-Digest: USSnnDfvn38sWo2fQAJPolY08dI=
+
+Name: res/layout/expense_chart_period.xml
+SHA1-Digest: BPvqeJWme1pVcOyOY7qo9kQKiGc=
+
+Name: res/layout-sw600dp-v13/caldroid_cell.xml
+SHA1-Digest: N0fidbWgqHSzkh+lU9wAvkxfGMg=
+
+Name: res/layout-sw600dp-v13/budget_list_footer.xml
+SHA1-Digest: 5MAt2ZCvLV/zbS934wb2S9FyLfQ=
+
+Name: res/drawable/ic_action_discard.png
+SHA1-Digest: veLFt0wpW7LAeovHQIdGXaq0/uQ=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: SloxbQGS9xwX08Gx7wL0qAgKuE0=
+
+Name: res/drawable/add_expense.png
+SHA1-Digest: zR1XdTLDPDF3NMaXe1JpQo/tDsk=
+
+Name: res/layout-v17/simple_expandable_list_item_2.xml
+SHA1-Digest: 0XQSTMWwmnV/Sr+Bak5NSsZqYmg=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_dark
+ .9.png
+SHA1-Digest: dRkuYXj05w5nmXKGQHikqdJRV/8=
+
+Name: res/layout/display_picture.xml
+SHA1-Digest: iEjQdZVdJtRhZSvh/o9lTxlYxkg=
+
+Name: res/layout/account_edit_list.xml
+SHA1-Digest: uMvargIXb5sB9BuU6Te99c1Nstc=
+
+Name: res/layout/list_item_icon_text.xml
+SHA1-Digest: DDaQjvxI5DKbodUpu7DEQjXBACk=
+
+Name: res/layout/widget_configure.xml
+SHA1-Digest: HbLWeSrB6jKEVvWguSYpRqpQw4g=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: QO1roDghjeIqS8g0UX3N2i2Rq40=
+
+Name: res/layout/bargraph.xml
+SHA1-Digest: 7W87hUAPT50GGvVA/pPPQwKpAgQ=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: QY63hHQDgqUN6ajGwNrdPzBdXi0=
+
+Name: res/layout-sw600dp-v13/expense_budget_add.xml
+SHA1-Digest: rx0l9e6Q8iRkAZU2KXvE91/QgLQ=
+
+Name: res/layout/sms_message_row.xml
+SHA1-Digest: W5awZGvlCLSH+8F09nMAKjKrRQ4=
+
+Name: functions_nl.properties
+SHA1-Digest: ZQL0f+/8tCoBAY0rxAZ+mRF92aM=
+
+Name: res/layout-sw600dp-v13/account_edit_list.xml
+SHA1-Digest: WHJgN12/1SGRghPmX/bdkdRSU3s=
+
+Name: res/layout/expense_manager.xml
+SHA1-Digest: t7Nz7UWg4OVRrDXEl3rS5F+VNw4=
+
+Name: res/layout-sw600dp-v13/listview.xml
+SHA1-Digest: CuhxjpAgTbvn32EAWxGll9kAET4=
+
+Name: res/drawable-hdpi-v4/ic_menu_recent_history.png
+SHA1-Digest: 0C0b37OHR1CUeG4qtZh8Rb7HgSc=
+
+Name: res/menu/details_menu.xml
+SHA1-Digest: HumccmG1yd7UIvfimbTkzAQWPZc=
+
+Name: res/layout/debt_add.xml
+SHA1-Digest: 60Van5BDRhQBdLya6Ex3JPg5JII=
+
+Name: res/layout/expense_expandable_child_row.xml
+SHA1-Digest: 3WpKLUzPVffCMVuGZaENHBAbZv0=
+
+Name: res/layout/widget_budget_list_row.xml
+SHA1-Digest: CS1NpMzPV6am0eeZOG1hL9UkqRE=
+
+Name: res/drawable/common_signin_btn_icon_dark.xml
+SHA1-Digest: zNtQ4HC0bvNuNBYUVo9gIziKHRo=
+
+Name: res/drawable/ic_action_new.png
+SHA1-Digest: zq3MM/hyY6Y4a97TrLyXkdDkW9E=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: vJY1lboKceEi5AXBkFVM8xoysRs=
+
+Name: res/layout/overlay_view.xml
+SHA1-Digest: 1/wo5koiyDJDydlLY2ovw035oRE=
+
+Name: res/layout-sw600dp-v13/three_rows.xml
+SHA1-Digest: ewMiIVxmdyFKuRF+VG/E8NX2vmc=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: tYiGDUvOwHeh/pZhFgJ5InuO0zk=
+
+Name: res/layout/caldroid_cell.xml
+SHA1-Digest: m7fc38dEFhpaC5qvntl/Bt5282E=
+
+Name: res/layout/budget_list_row.xml
+SHA1-Digest: s/psTl9JzGqG1GRvQThNOagzGXQ=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: a8iNR3D9xvqUZmDYCWUiN6Xfxpw=
+
+Name: res/layout-sw600dp-v13/expense_expandable_subcategory_list_white
+ .xml
+SHA1-Digest: 2A71WZ5V6h5EOGOC6iCQjxJYpCc=
+
+Name: res/raw/gtm_analytics
+SHA1-Digest: gtP8hwUXM4kTM8gxlRJVfULNR14=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_dark.9.pn
+ g
+SHA1-Digest: y+oQr4Zrl8S8RxwV1qWl3a24J2g=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: O+m0D9P2iKLnyjHKRgLp4wihjgQ=
+
+Name: res/drawable/layer_list_orange.xml
+SHA1-Digest: nxDrxYwO0bYfHjHTef9B1Hpn/qo=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: gwDdmi37+XfPMHpBwwEGHRLYh2I=
+
+Name: res/drawable-xhdpi-v4/ic_backspace_white_48dp.png
+SHA1-Digest: fXGi9Hzlb1ye/JLHazcSn9dGkw4=
+
+Name: res/layout/expense_expandable_subcategory_list_white.xml
+SHA1-Digest: QSN5R43BUZP3hjFZEEvNcpw6tC4=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: gqWhLpoL32cQAWuhI+HWorR8liQ=
+
+Name: res/layout/sms_main_row.xml
+SHA1-Digest: Ce6YJThrhQnodMDS9zk56K+Uv48=
+
+Name: res/layout-sw600dp-v13/interest_table.xml
+SHA1-Digest: ub6eqM6QB5WGgq1YtWh4AUDCYI4=
+
+Name: res/drawable/custom_tab_indicator_unselected_focused.9.png
+SHA1-Digest: 20d6RyNkkyu9SXbqBwkclxNeNV0=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: WkHTJXRyWdHGbuBmj37cLr2Wcak=
+
+Name: res/layout/three_rows.xml
+SHA1-Digest: dNUhOf6fKCWARTISnbRIkaYd1ks=
+
+Name: res/drawable-hdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: pV7vAOa5obdvUl2zdExXOE/dMxs=
+
+Name: res/menu/transfer_menu.xml
+SHA1-Digest: 1XZGyiowtTkLSDE9SRr5jnvFUkc=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: iBZi/wy4SHbuNFDBRj+IH59ZgE8=
+
+Name: res/xml/widget_provider_small.xml
+SHA1-Digest: Rxx7JorqdiM7+snE87qzwHg1qNk=
+
+Name: res/layout/currency_converter.xml
+SHA1-Digest: YZfl8pdRfKPbRT6lB3nGTGDMv50=
+
+Name: res/layout/expense_budget_item_row.xml
+SHA1-Digest: IYJq+2UG+koXVg3pHzUQur4a2WE=
+
+Name: res/drawable-xhdpi-v4/ic_settings.png
+SHA1-Digest: TVR281sCUyB0uAYiJBBA7vKMpdM=
+
+Name: res/drawable-xhdpi-v4/ic_action_add_to_queue.png
+SHA1-Digest: 5v+pANTVVXsQaMZtOEVtS6cIzQI=
+
+Name: res/layout/pin_dialog.xml
+SHA1-Digest: h44tfTgxJCL5a6+i56KbBqIqw5A=
+
+Name: pom.xml
+SHA1-Digest: Iq2FxxaT721UIqdTubx8jzOJLP4=
+
+Name: res/layout/chart_new_bar_or_line.xml
+SHA1-Digest: fY4uQo77fnArZhVGw+K3k+vqqAw=
+
+Name: res/layout/simple_expandable_list_item_2.xml
+SHA1-Digest: XFyRHMKoffn5FERdKmUqgiepXPA=
+
+Name: res/layout/expense_report_pdf.xml
+SHA1-Digest: w2uU/KZs0vQItGfGLitQ6bvDGII=
+
+Name: res/drawable/layer_list_red.xml
+SHA1-Digest: pX75ZiwcAlCMJdjtCbkj09tsas4=
+
+Name: res/layout-sw600dp-v13/expense_chart_custom.xml
+SHA1-Digest: kkucKscTM9WdkDUWkT9yYMN7G5U=
+
+Name: res/layout/expense_custom.xml
+SHA1-Digest: Z3NG1YbyXnfYkQi40L+LB3MoMOc=
+
+Name: res/layout/expense_auto_fill.xml
+SHA1-Digest: w9EEBTyLSyEnKAIsaugchw1AY9E=
+
+Name: res/drawable/arrow_15_15.png
+SHA1-Digest: 5ZD3Q1zscO7nb83Gkbq0c/vQlWc=
+
+Name: org/achartengine/image/zoom_out.png
+SHA1-Digest: fCue4PKIGrdPWlOh/eNvmGpUExA=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_light.9.pn
+ g
+SHA1-Digest: at/fquKFtB3/7Ony84wbrIbGm8E=
+
+Name: MANIFEST.MF
+SHA1-Digest: E54ErhPXEVNfI8+AGmIaitSxIeU=
+
+Name: res/layout-sw600dp-v13/widget.xml
+SHA1-Digest: fQjFRDuCgTyz7MF9jVmXmo3M74s=
+
+Name: functions_en.properties
+SHA1-Digest: hHVk61NzWRewEO1Z7vjJwBKBV70=
+
+Name: res/layout-sw600dp-v13/simple_expandable_list_item_1.xml
+SHA1-Digest: 1TCS9z+vNo3KX0q8uQIEDh/Z/Kc=
+
+Name: res/menu/sms_main_menu.xml
+SHA1-Digest: OyDdsaEFuFLF20fFGci6ioMG2R8=
+
+Name: res/layout-sw600dp-v13/expense_custom.xml
+SHA1-Digest: qQTugTtUhVxE2tnFkOtIecRg2Xc=
+
+Name: res/drawable/icon_loan.png
+SHA1-Digest: nMe/EWB6CnC5Fst9Nh4U+uXivrA=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: I9qbcSSf/KTYWorvWQ2fffF+RNU=
+
+Name: res/drawable/add_32.png
+SHA1-Digest: lTb3KpVPk2ZnK3w2pYPt2Xoa4Pw=
+
+Name: res/drawable/ic_action_settings.png
+SHA1-Digest: z7HlQvG0JJIdRLp+495VX5tG8Nk=
+
+Name: res/layout-sw600dp-v13/widget_configure_small.xml
+SHA1-Digest: pSjxzU0pOLRkUS6bl5MC3Aq0eEs=
+
+Name: res/drawable-xhdpi-v11/icon_alert.png
+SHA1-Digest: wnTyysaQ7+tEwInfPwJ1RiXF210=
+
+Name: res/layout-sw600dp-v13/expense_category_add_edit.xml
+SHA1-Digest: ZG65ovPTkkJ0QTuzfMA3eJziBdA=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: VuaZJTj5+et64w2G22v/p56XepA=
+
+Name: res/drawable-xhdpi-v4/ic_action_picture.png
+SHA1-Digest: kbTtA7u5dCj3+nxI1EAzqmeF+bM=
+
+Name: res/layout-sw600dp-v13/google_drive.xml
+SHA1-Digest: dz8eTHBxOet6kmw/R9/V3hhudXU=
+
+Name: res/drawable/ic_action_new_email.png
+SHA1-Digest: w2Zfyr0eBGMpz0tx0njxrPtgAw8=
+
+Name: res/xml/widget_provider_summary.xml
+SHA1-Digest: tiHp0EUMWRmVHeu8Fv8zdKXX43A=
+
+Name: res/drawable/background_light1_selector.xml
+SHA1-Digest: aGNlBwcZ42aaJadPu0BQaicLM+4=
+
+Name: res/drawable/ic_action_add_to_queue.png
+SHA1-Digest: iMMLpMXvB0FC+Qf8TVCNSaUh40U=
+
+Name: res/menu/category_menu.xml
+SHA1-Digest: BEJlxFM1HKZihv3ztfkGaulOidc=
+
+Name: res/layout-sw600dp-v13/expense_manager.xml
+SHA1-Digest: XxrS9LCJ6At8W0HJnFzHTL8ealc=
+
+Name: res/drawable/background_white_selector.xml
+SHA1-Digest: +sdawbsWr64A4Vjhi25VuvYJ6kU=
+
+Name: res/xml/widget_provider_budget.xml
+SHA1-Digest: L84WDLOPK5hXGJwdRZt5MqfzkAo=
+
+Name: res/menu/reminder_menu.xml
+SHA1-Digest: kuYJdB+kQmSLKLIjgc/EyxhMaRo=
+
+Name: res/drawable/home_button_purple.xml
+SHA1-Digest: 82M3JnJL5qSPEcGhVHJ7reVduN0=
+
+Name: res/drawable/ic_action_done.png
+SHA1-Digest: B1TaiVTLodpG+kpNnxqZZxw6bcY=
+
+Name: res/layout-sw600dp-v13/dropbox.xml
+SHA1-Digest: 6rIQOCVAwgg6v9E5jV48L8w8uF0=
+
+Name: res/color/vpi__light_theme.xml
+SHA1-Digest: ynuQD+gClPhfMqe5Dby5QQBLDyU=
+
+Name: res/drawable/expander_ic_minimized.9.png
+SHA1-Digest: xb7PFWizybMmAEd78taxHT8mBow=
+
+Name: res/drawable/home_button_yellow.xml
+SHA1-Digest: fZQxsV9C2t+q4qQR43oPagcOy04=
+
+Name: res/layout/debt_list.xml
+SHA1-Digest: YU3I7EHEoWzhRquJPHyhbX9kAUw=
+
+Name: res/layout-v17/simple_spinner_dropdown_item.xml
+SHA1-Digest: XGsIclVBUmLUK0F1OmTdcRW36GU=
+
+Name: res/drawable/cell_dark_bg.xml
+SHA1-Digest: 6QXARAGzb36hcWpLJfNOd/JnM4A=
+
+Name: res/layout/expense_activities.xml
+SHA1-Digest: Z3KLyD0SzGQaEAk+uD6dzDxC6tM=
+
+Name: res/drawable/button_red_selector.xml
+SHA1-Digest: SAxC0Q2ll3FMaBmsebfiSIG0Cy8=
+
+Name: res/drawable/ic_action_transfer.png
+SHA1-Digest: fk6qgabyRsk0B3BQ+ZyaVnYczc4=
+
+Name: res/layout/date_cell.xml
+SHA1-Digest: 2ivrWQQWRMbJ+qvv+fXirUywZUc=
+
+Name: res/drawable-xhdpi-v4/ic_action_collection.png
+SHA1-Digest: ULoLIwYIiJtOw0L4iN+H5Xx2RCE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: QxjY3lsLEtQLXXEDEdT0bdyxGuE=
+
+Name: res/layout/tag_list.xml
+SHA1-Digest: ZiGCRQYH9GZv6uRQxog9IaF+I3M=
+
+Name: res/drawable-xhdpi-v4/ic_action_location_searching.png
+SHA1-Digest: 3wbswJxaeYBcV5N0FRyX1aql/n4=
+
+Name: res/color/common_signin_btn_text_light.xml
+SHA1-Digest: USJCbLKxKYBH3dWnhd1aAEkg7G0=
+
+Name: res/drawable-hdpi-v4/vpi__tab_selected_focused_holo.9.png
+SHA1-Digest: UVdIFhZ4vuRaS/Qb+DngyvDUchY=
+
+Name: res/drawable-hdpi-v4/simple.png
+SHA1-Digest: 4fFUjEQxj/z6XmbuIYwBq+wooaU=
+
+Name: res/layout/widget_summary.xml
+SHA1-Digest: dbCNvyUZtz+NvIbL1S4II70voSs=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: PNXulXQTonk6XVhRPpycQtNbaYQ=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: IQn6ReCnu8JpwPcPoxVca5pqF/c=
+
+Name: res/layout/expense_mileages_weekly.xml
+SHA1-Digest: lrCi3bRU+OSskAwW2C5/ZLhoDrI=
+
+Name: res/layout-sw600dp-v13/display_picture.xml
+SHA1-Digest: C6aXWxgm4t3ayjF4OTk76WzFAX8=
+
+Name: classes.dex
+SHA1-Digest: UpbON1DUHIUglfupJk4wp0GAuzM=
+
+Name: res/drawable/background_dark2_selector.xml
+SHA1-Digest: 4hsNWvibA/aD2o8kVz02ScFhCOk=
+
+Name: res/layout-sw600dp-v13/date_settings.xml
+SHA1-Digest: W3rE6wc95RpxORcMr+uyQc9F4N4=
+
+Name: res/layout-sw600dp-v13/expense_activities.xml
+SHA1-Digest: EWMwG74qEJ6F1wK2bHjWu3fACT4=
+
+Name: res/layout-sw600dp-v13/simple_spinner_item.xml
+SHA1-Digest: h+INN0Gb8wHR9Afbg1dxagNWfi8=
+
+Name: res/drawable/custom_tab_indicator_unselected_pressed.9.png
+SHA1-Digest: 4NBlqKbrW/LnBTISr/K73yfdA2s=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: x1SaIflLE5ETIZBY9NPET+yiGu8=
+
+Name: res/layout-sw600dp-v13/expense_reminder_transaction_header.xml
+SHA1-Digest: OIqchgCdWyrC9HxclT7K5d1pkAY=
+
+Name: res/layout-sw600dp-v13/expense_budget_list.xml
+SHA1-Digest: EfNClasfQLJeAH2uq2lrzlgJtSc=
+
+Name: res/drawable/expander_ic_maximized.9.png
+SHA1-Digest: gIfHYfkjoWRm7DlcQY1XNshOTHg=
+
+Name: LICENSE.txt
+SHA1-Digest: crqTG0+PSysly6L+JE8aBmFvUMY=
+
+Name: res/layout/fragment_pager.xml
+SHA1-Digest: KUn1/IauboXnmDPQlJac7H9FInY=
+
+Name: functions.properties
+SHA1-Digest: 5SDZ9gkZZVh2EtdFJIksZKdC0c8=
+
+Name: res/layout-sw600dp-v13/expense_mileages_monthly.xml
+SHA1-Digest: w1PzJ7hlxuYV4whjp2MWZTBKKNI=
+
+Name: res/layout-sw600dp-v13/loan_calculator.xml
+SHA1-Digest: rFofhS5di786Aa+A8iwiJdiKmp4=
+
+Name: res/layout/shoppinglist_add.xml
+SHA1-Digest: BXjzyBSx6TV73lP6ZfnP8jZUuLE=
+
+Name: build.gradle
+SHA1-Digest: Mg0SVk9hnLWEkGzddNbpdmHFt+E=
+
+Name: res/drawable/ic_action_collection.png
+SHA1-Digest: 5KMg1Rx30FpfPCOJ7xKn8i5eYdE=
+
+Name: res/layout-sw600dp-v13/debt_add.xml
+SHA1-Digest: vRxjz9SqBtck5h4bg3/T6FtBM4w=
+
+Name: res/layout/shoppinglist_row.xml
+SHA1-Digest: chzLz8PZZWIrAFwEKLmZBXV7Afs=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: s4QTzl3FN8vCu33vo96hrnJ16Aw=
+
+Name: res/layout-sw600dp-v13/expense_repeating_transfer.xml
+SHA1-Digest: ydage+dAAZM8WuOuCw5LXo22yXs=
+
+Name: res/layout-sw600dp-v13/expense_reminder_transaction_row.xml
+SHA1-Digest: Hhva1cq06lsfJq+T9j+0OoxK4NE=
+
+Name: res/layout/expense_budget_list.xml
+SHA1-Digest: LU2ffl8e/DgN739WYp3voWRC+Tw=
+
+Name: res/drawable/button_blue_selector.xml
+SHA1-Digest: O2F31Raa79addSDHetp+KzOOmy4=
+
+Name: res/layout-sw600dp-v13/chart.xml
+SHA1-Digest: SwjDB+cqRoayuk2vGdqF2NS3vcE=
+
+Name: res/drawable-xhdpi-v4/minus_32.png
+SHA1-Digest: zeOIYWKWz42CV+QH5D2lWb7CN/U=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: ClT9ohpd+XCoBAr8cxSvgMKPNWE=
+
+Name: res/layout/add_edit_list.xml
+SHA1-Digest: GH8c/wAjLSRPBcwuZRIW3lfMcJw=
+
+Name: res/layout-sw600dp-v13/expense_summary_time.xml
+SHA1-Digest: kW4MeudlJ0kFAsChIzXZAxSrxkc=
+
+Name: res/drawable-hdpi-v4/expense_manager_pro.png
+SHA1-Digest: RE/GNc8Duz579Sszkys+fYgwLBg=
+
+Name: res/drawable/tip_arrow.png
+SHA1-Digest: OQpNL82aFgodgGIOnJ/OEI4tth0=
+
+Name: res/drawable/custom_tab_indicator_selected.9.png
+SHA1-Digest: vJK+xWO/bh3VDloWZEnKnYi/p2g=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: ZEEsXmeNi1geqYcaE8zpEqIuRiw=
+
+Name: res/layout/chart_new_pie.xml
+SHA1-Digest: t9Y1JVG8xzGtwUl8qa0JRWGhdPg=
+
+Name: res/layout/budget_list_header.xml
+SHA1-Digest: GGG0XLTx60lRXHOZs7jQFJu8uls=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: iCG6BXrh1Ff2qUGMGBMeCg4qjsU=
+
+Name: res/menu/mileage_menu.xml
+SHA1-Digest: +Af4pgozONosXIpKNijE1aJG6q8=
+
+Name: res/drawable-xhdpi-v4/ic_action_transfer.png
+SHA1-Digest: JpNHgKbob50Yp0l8nYw3kbXiCDw=
+
+Name: res/drawable/background_solid_black.xml
+SHA1-Digest: Pb9a1sE9950+KULkY8fMxZbUDVU=
+
+Name: res/drawable-xhdpi-v4/add_32.png
+SHA1-Digest: MqBMsCv3gk/Iq34uVuBxxwP6MXQ=
+
+Name: res/drawable-xxxhdpi-v4/expense_manager_pro.png
+SHA1-Digest: WiEOM+VNrfkXk5lNzMA5xAx5cC4=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: VuHWq27PyWkd47nI6G0Qt94zrmk=
+
+Name: res/layout-sw600dp-v13/expense_account_list_button.xml
+SHA1-Digest: b7HTXN2csMetGGZEYfhzk26KD80=
+
+Name: META-INF/LICENSE.txt
+SHA1-Digest: DH0njfsK19doD8EgPP76VvlEcbo=
+
+Name: res/drawable/ic_settings.png
+SHA1-Digest: huV7reNIOGT6qSXQbKJB1Fxe+XQ=
+
+Name: res/drawable-xhdpi-v4/vpi__tab_unselected_focused_holo.9.png
+SHA1-Digest: bfhKT4sYxeDDpbotdY2ZUbo67z0=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: 0UNgOBttz8xMtT/1KocqRMqDxUc=
+
+Name: res/menu/main_menu.xml
+SHA1-Digest: 9jM8ZwD84oVITNRC7VOWXFUlohw=
+
+Name: res/drawable-hdpi-v4/advanced.png
+SHA1-Digest: eUg/TLIbEym3+oZj2SoVSoU39nU=
+
+Name: res/layout-sw600dp-v13/budget_list_row.xml
+SHA1-Digest: fQ0jfSVZngQ0fcHaUOgAIs76QFk=
+
+Name: res/layout/simple_spinner_dropdown_item.xml
+SHA1-Digest: iRr9B2JYPmLhwHsnolP9de54i1s=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: 8+niuO9OhNqCIJJHSXmAIepAde4=
+
+Name: res/layout-port/calculator.xml
+SHA1-Digest: bSWzqFdEbqJKATNJk3S3/pxhIBc=
+
+Name: res/layout-sw600dp-v13/display_settings.xml
+SHA1-Digest: HHK75H+wLvzE8w+TYx06FTsfT0M=
+
+Name: res/drawable-xhdpi-v4/vpi__tab_unselected_pressed_holo.9.png
+SHA1-Digest: RGGFvt9StJs5NJ7C3+HPx+73T+4=
+
+Name: res/layout-sw600dp-v13/expense_mileage_add.xml
+SHA1-Digest: pCuAxTUpJz1lTHVcRLcajRxtcWI=
+
+Name: res/layout-sw600dp-v13/expense_summary_list.xml
+SHA1-Digest: 2JBmyX5n0eJ+ULzcpC2quHmNVJ0=
+
+Name: res/drawable-mdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: DX5NPul5za8/XPsPaTiyuRHhiw4=
+
+Name: res/drawable/button_black_selector.xml
+SHA1-Digest: 6v1q17NFvwIxRBVdjZ1ihfsB68c=
+
+Name: res/layout/expense_mileages_monthly.xml
+SHA1-Digest: e0vv/dPVoR2uxNp9ry3mHCbEUF0=
+
+Name: res/layout/expense_account_list_button.xml
+SHA1-Digest: GW9gJLQvRRkAwQ8bD74fpAK6mDY=
+
+Name: res/layout-land/calculator.xml
+SHA1-Digest: ajP1YcyDF3Vqn8UXW8xCsLG4O9g=
+
+Name: res/layout-sw600dp-v13/currency_converter.xml
+SHA1-Digest: pyhwUgPmcA4F/8/8ZcLGsTIUHpk=
+
+Name: res/layout/sms_add.xml
+SHA1-Digest: LKBkF5om/A9uWUUT679/XDKXxAY=
+
+Name: res/drawable-xhdpi-v4/ic_action_settings.png
+SHA1-Digest: P3cLDNKz0eRQBMoeAjTRjFOJoKw=
+
+Name: res/layout/expense_add.xml
+SHA1-Digest: 8+2QLtuKaDLYMyhnpb/OW+l08Y4=
+
+Name: res/xml/widget_provider.xml
+SHA1-Digest: dq26DzcoK0/rJAnADKvd4eZDUHI=
+
+Name: res/drawable-xhdpi-v4/ic_pie_chart.png
+SHA1-Digest: j4njhdkaCqQB1m5v9hybAU0EAqw=
+
+Name: res/drawable/vpi__tab_indicator.xml
+SHA1-Digest: /BspavnMChdasekwwnt5+a/bmxk=
+
+Name: res/layout-sw600dp-v13/expense_repeating_list.xml
+SHA1-Digest: 1QG60zlhsIux91TIdy1iY8OZxRQ=
+
+Name: res/menu/sort_menu.xml
+SHA1-Digest: dCissS2msrSThaibGEe7OWw+lVY=
+
+Name: res/drawable/cell_bg.xml
+SHA1-Digest: HcPPxk36w6C/dEoMG6QYt7g9z6M=
+
+Name: res/menu/activity_menu.xml
+SHA1-Digest: xP6zFORruWVIlfesHjN/ojvR0QQ=
+
+Name: res/drawable/home_button_silver.xml
+SHA1-Digest: Xl9hkhEWcluroiKcM5lfeEmvs0I=
+
+Name: res/layout/caldroid.xml
+SHA1-Digest: CovEYLvLZQlizlIyYqXtAegf3Dk=
+
+Name: res/layout/chart.xml
+SHA1-Digest: GykBf7U8YhnlaokxQRUkNU9oGR0=
+
+Name: res/layout/expense_reminder_list.xml
+SHA1-Digest: 1clC6VVa/uw3iTj+D1sM2ed4mU8=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_light.9.p
+ ng
+SHA1-Digest: 2Wz4MP+WvtH3G6GWOk7aA3RsMCQ=
+
+Name: res/color/vpi__dark_theme.xml
+SHA1-Digest: GjmppMNs4UKpQ/V8BI8Cf9O08L0=
+
+Name: res/menu/note_menu.xml
+SHA1-Digest: jfk1/080Ax9LX5OMB34UxiO4KJs=
+
+Name: res/layout-sw600dp-v13/touch_list_note_row.xml
+SHA1-Digest: pBia21sUuBjEhvXPvl1q8LV5F30=
+
+Name: res/drawable-mdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: 1gfnRPtyyVOsIHofv8X7kWsMlEs=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_dark.9.pn
+ g
+SHA1-Digest: 1ySqFlFUFUZSrpFiPfTuz3yUqfo=
+
+Name: res/layout-sw600dp-v13/gallery_row.xml
+SHA1-Digest: IzkIZWMa4mHaOsVwhj6cbehUHLU=
+
+Name: res/layout/pin_setting.xml
+SHA1-Digest: AoeuIrywawHOcEQZfyAkQNq54e0=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: 0ES2/vkCI06f+20uSMpSJ8vhfQI=
+
+Name: res/layout/widget_configure_budget.xml
+SHA1-Digest: 7qFRnoLwrhc8rgdpEkkdMOx3VB0=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: MfFtt0QW7Zq6IpKmoDVrPPYHtnc=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: 3LjWSTDaK+LzxXCMhp8d8TFwiHg=
+
+Name: res/layout/expense_reminder_row.xml
+SHA1-Digest: ByP0OWPRln/puNh2KEzSk7PtTtk=
+
+Name: res/layout-sw600dp-v13/expense_mileages.xml
+SHA1-Digest: NMFEEHBfOCrkzMuvfgoTVlW1QLY=
+
+Name: res/layout/expense_activities_weekly.xml
+SHA1-Digest: 16/yoQkyfYgaA+3BZ8HS5TEUplk=
+
+Name: res/layout/touch_list_one_text.xml
+SHA1-Digest: j+9zyxIevYE9tvPOXbLIY9BNZHs=
+
+Name: res/layout/expense_mileages.xml
+SHA1-Digest: Gq1vwAQLN9fofN1BLRh6uPp4HCE=
+
+Name: res/drawable/icon_currency.png
+SHA1-Digest: oo9jRqD5vqS962Hh5XRDGXK8DaE=
+
+Name: res/drawable/left_arrow.xml
+SHA1-Digest: kWf4oIvDLbrxLJgn1GJKkW2dfpM=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: QanEICwk4+RwG05Ug5mOvoF8ZV8=
+
+Name: res/drawable/home_button_green1.xml
+SHA1-Digest: ULIlrgGE7sZv47IdGw0E8gXAsFg=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_light.9.pn
+ g
+SHA1-Digest: k5MOcAliy5dGNVM2ei1u0A/sKl8=
+
+Name: res/drawable-xhdpi-v4/ic_action_previous_item.png
+SHA1-Digest: RQfVu1gKi5L8V67fnUgdvDVo/VQ=
+
+Name: res/layout-sw600dp-v13/widget_configure_budget.xml
+SHA1-Digest: 0NqWePvWNrKNHx+cY69m7ydmKZU=
+
+Name: res/menu/ok_menu.xml
+SHA1-Digest: jaMKsl4FxxmAq9WyHxWwzUgwIXc=
+
+Name: res/drawable-hdpi-v11/icon_alert.png
+SHA1-Digest: 3OqXCwr+kIvmMdnx57R+bI07Kjk=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: yxa0UeGLYNHkuR3OEDiNjcUTK20=
+
+Name: res/layout/expense_row.xml
+SHA1-Digest: 5ipCXWtewDzW/CBjMjuZI2eVmRE=
+
+Name: res/layout/expense_activities_tax.xml
+SHA1-Digest: 6FRRgIkp3lRDsv6AupOevnONQ7s=
+
+Name: res/drawable/ic_action_next_item.png
+SHA1-Digest: linM06Bryh7EVDx5U6rRWMFIqUc=
+
+Name: res/drawable/button_yellow_selector.xml
+SHA1-Digest: YQOA8TpV/D85PArcl8hKfQVrg8o=
+
+Name: res/layout/interest_calculator.xml
+SHA1-Digest: Rta5VqVZgsLOb5pZ+l92se4rA9A=
+
+Name: res/drawable/ic_action_sort_by_size.png
+SHA1-Digest: WjXN5YyOMGq57wLEVW/qNrEgSCE=
+
+Name: res/layout/expense_report.xml
+SHA1-Digest: lYsPFQ0U1jBfhUN2rr8ynIbgqAw=
+
+Name: res/drawable/custom_tab_indicator_unselected.9.png
+SHA1-Digest: NcCQ7AJe/jDVVbfZp9e/er7PdKc=
+
+Name: res/layout/interest_table.xml
+SHA1-Digest: uQAkzoR9pVCzGKyzz3v4GiC9U6E=
+
+Name: res/drawable-hdpi-v4/vpi__tab_selected_pressed_holo.9.png
+SHA1-Digest: 0zb5VxoWuEqX9ol5maTUvcNpDSk=
+
+Name: res/drawable-xxhdpi-v4/expense_manager_pro.png
+SHA1-Digest: R/z9z5ulKRvWfoLn7hnuArrt2sI=
+
+Name: res/drawable/icon_sale.png
+SHA1-Digest: BCgPmMl4FbSC293UKutkcwRwSzc=
+
+Name: res/drawable/icon_tip.png
+SHA1-Digest: ShXml4mpsXhM8W7hFzuWnxsw06M=
+
+Name: res/layout-sw600dp-v13/expense_chart_period.xml
+SHA1-Digest: jspF9cXNdcq0OBCPNWgeWupdxAU=
+
+Name: res/drawable-mdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: kCo8oWl8qEdfXTocxzzMYw/cv6Y=
+
+Name: res/drawable/calculator.png
+SHA1-Digest: xFlLRWH/JI0xwwFM1LXXCcKOrg8=
+
+Name: res/drawable-hdpi-v4/calendar_next_arrow.png
+SHA1-Digest: 14i4cttq9Z9oqbr85MqhTbvIHa0=
+
+Name: res/drawable-mdpi-v4/vpi__tab_selected_focused_holo.9.png
+SHA1-Digest: UrzVY+Ji+Qe+ug3NYNJi2bPkzto=
+
+Name: res/drawable/yellow_background.xml
+SHA1-Digest: k2LT2D3c5Eq8sJo5J4j8Udl1t00=
+
+Name: res/layout-sw600dp-v13/expense_autofill_row.xml
+SHA1-Digest: 7mmI4gFmj0mQz2stTofVwghrhtA=
+
+Name: res/menu/debt_menu.xml
+SHA1-Digest: 0yr40YFs+Yhto+GFJnlOVBVA98A=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: UN5AcIpQ1azWWkLQtJd5yTgMGB0=
+
+Name: res/drawable/previous_48.png
+SHA1-Digest: Cuh+lpb4Vy2hBrMyBXXNJvB0ywE=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: fbn419FUypwrdpUi2m4EF6Huags=
+
+Name: res/layout/expense_summary_list.xml
+SHA1-Digest: tIjWblRwMRaQLJwdV2cKVmbGIAM=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: MUmLX81uNe70nYdmMFkejZPmCjE=
+
+Name: res/drawable/red_border_gray_bg.xml
+SHA1-Digest: bLpYjvQbhQ7ZmtmtWnHm7JBkMGw=
+
+Name: res/drawable-xhdpi-v4/vpi__tab_selected_holo.9.png
+SHA1-Digest: f+q9z++bft0L3UnzceUMxaosv7s=
+
+Name: res/layout-sw600dp-v13/expense_expandable_subcategory_list_1.xml
+SHA1-Digest: fj9hp2qGHxskIbKlAGBJFVhPt4Y=
+
+Name: res/drawable-hdpi-v4/common_ic_googleplayservices.png
+SHA1-Digest: UqSluOdV17H1oaatvoTeX6R2/9A=
+
+Name: res/drawable-xhdpi-v4/ic_action_select_all.png
+SHA1-Digest: mEvBa+1/ISAqDMjLYecIAF4Ckas=
+
+Name: res/layout/budget_list_footer.xml
+SHA1-Digest: RQ9qEi5YHSHQ8uQmljNy8uMfOVo=
+
+Name: res/drawable/home_button_blue.xml
+SHA1-Digest: s99ggJ0zT3s1K1wOGD3yGSOBnoo=
+
+Name: res/layout/simple_list_item_1.xml
+SHA1-Digest: v2+TIIVJyC7oWwtZJ9DySMYUAx0=
+
+Name: res/layout-sw600dp-v13/widget_configure.xml
+SHA1-Digest: GCOOQI4qvaO3eLxAzZdedpkAeS0=
+
+Name: res/drawable/icon_credit.png
+SHA1-Digest: ttiSTbd7ZdPgNfzBOFLazoIA/h0=
+
+Name: res/drawable/divider_horizontal_dark_opaque.png
+SHA1-Digest: aVk5E7rsxvKq5MJdvnBToefU2bc=
+
+Name: res/drawable-mdpi-v4/vpi__tab_unselected_pressed_holo.9.png
+SHA1-Digest: ntEkFp2JFzFHTg+NX7+YKZs+hNQ=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: VVcFa/aosM3nzX+HNn6iJ+KmmZw=
+
+Name: res/layout-sw600dp-v13/expense_account_transfer.xml
+SHA1-Digest: x/IMfEiObVFFaVveJ3qHO2PPYPk=
+
+Name: res/layout/chart_monthly.xml
+SHA1-Digest: vBPi/IcxQKDaQ2FyTjPgXeeFUlY=
+
+Name: res/menu/repeating_list_menu.xml
+SHA1-Digest: /6oSOSrUdXH0DyKVH7Hnj8lOcEc=
+
+Name: res/drawable/ic_action_picture.png
+SHA1-Digest: J2aaaJdfmyhp5CczXjKi2cW63Jk=
+
+Name: res/layout-sw600dp-v13/expense_mileages_weekly.xml
+SHA1-Digest: sgH6EpTjq75y9AmXhVkYoM3NFUo=
+
+Name: res/xml/widget_provider_add.xml
+SHA1-Digest: VLnEnG0o3h6dejuWlEFEHUxMOBo=
+
+Name: res/drawable-xhdpi-v4/ic_action_done.png
+SHA1-Digest: pirQLzxf5sKFKAFj8kRd1VepiYA=
+
+Name: res/color/common_signin_btn_text_dark.xml
+SHA1-Digest: s3SlxDJpgGoSmBH3+TyKQ8SQRmA=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: WQ4D80mKWq/wfgMQ6utw1gMrxig=
+
+Name: res/layout/touch_list_row.xml
+SHA1-Digest: xDNOhd8nfO42z09AzKDBOdkBtQA=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: WPTWH7XeNc+LWr/cyp92Pruzwh0=
+
+Name: res/menu/account_menu.xml
+SHA1-Digest: i/jT/jQBz21/teAQPnpxvmmKAjE=
+
+Name: res/layout/expense_repeating_row.xml
+SHA1-Digest: 2qV5/E+Qp7H03cUqX88nX7ajbMw=
+
+Name: res/layout/expense_expandable_subcategory_list_1.xml
+SHA1-Digest: W5IlqfeUCpoM8Y+r+lU2aZv3j4A=
+
+Name: res/menu/note_add_menu.xml
+SHA1-Digest: 1e4eO+xmTWWcfvj2Y+UEewtjAIA=
+
+Name: res/drawable/background_black_selector.xml
+SHA1-Digest: V9QcZcS5AnmzvDym5KmceGliwUw=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_light.9.pn
+ g
+SHA1-Digest: mcOJ3cBZioIRCXaDtOmeYU8Xjr4=
+
+Name: res/drawable-mdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: w/fcwmT9uzinl1rSemiGsl3AxBQ=
+
+Name: res/drawable-xhdpi-v4/ic_action_search.png
+SHA1-Digest: GCISzE4Gd3V4IwC8lxxDVboLj8k=
+
+Name: res/layout/date_grid_fragment.xml
+SHA1-Digest: NvZaogCGNKo6X1SBfn/wbR5aQts=
+
+Name: res/layout-sw600dp-v13/expense_reminder_row.xml
+SHA1-Digest: 5O4Idgi9QwGWKkBqmCoiKInwlqc=
+
+Name: res/layout/chart_category.xml
+SHA1-Digest: A9mhVpuTnR0umZYL0WYoWEvuxeo=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: 8SjhfVMvuCrdt9RmhXnZtsozaHg=
+
+Name: res/layout/expense_activities_monthly.xml
+SHA1-Digest: ab7+/HTrz1jBW/Yq5vg54qORAMc=
+
+Name: res/drawable-xhdpi-v4/vpi__tab_unselected_holo.9.png
+SHA1-Digest: zUeBbM5YDOOdW1bOlSzW5u6y/Ng=
+
+Name: res/drawable/background_light2_selector.xml
+SHA1-Digest: cVQoTicb2wGlJc5z7FyDpPXytUs=
+
+Name: res/layout-sw600dp-v13/expense_report.xml
+SHA1-Digest: iRPr+8U/4rg7GDBixDxVtQxmalw=
+
+Name: res/layout/one_row_two_texts.xml
+SHA1-Digest: cDyoP3t4npamuPYHjvx38ubqIk8=
+
+Name: res/layout/touch_list_note_row.xml
+SHA1-Digest: 21UG9f2NDAl+bavhdHsN03sPdj4=
+
+Name: res/drawable/aarrow.png
+SHA1-Digest: yKHxm6PouGy+nXxsM1GYZTQtSWk=
+
+Name: res/layout-sw600dp-v13/expense_expandable_child_row.xml
+SHA1-Digest: HxxcyvFsQQs2aJiBPveCFUHz9vc=
+
+Name: res/drawable/sym_keyboard_delete.png
+SHA1-Digest: 6BYkADF1v3bsuK0hC/eN5u2jbbM=
+
+Name: res/layout-sw600dp-v13/expense_repeating_add.xml
+SHA1-Digest: 543e948gofWYZ+NGKVis+GnyKLI=
+
+Name: res/drawable/home_button_red.xml
+SHA1-Digest: LPIy2r9N13MVvLqC1WAxmkKMuUI=
+
+Name: res/layout/expense_account_group.xml
+SHA1-Digest: fSEYMsp6rlqFpUeyYHB9/+5tLT8=
+
+Name: res/layout-sw600dp-v13/expense_activity_default.xml
+SHA1-Digest: SQJo4lt4BAWug1CclDri8LHtANo=
+
+Name: res/drawable/icon_calc.png
+SHA1-Digest: XC6oYoQFF0siIiWnOCgd9l7r25s=
+
+Name: res/drawable-hdpi-v4/clear_history.png
+SHA1-Digest: FXRYYh4bSNxe71rD7Vx94r7A7Wg=
+
+Name: res/drawable-hdpi-v4/expense_manager.png
+SHA1-Digest: iiV4Phy8MlB/ZFNSUZp3ZxhqW5I=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: WXE9Fo9f8jTxZ9ixisfOf2jGeRw=
+
+Name: res/drawable/next_48.png
+SHA1-Digest: 0A1tTJgxP2GbHv4OBoTPTbr9uT0=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: iIEXDHTYfBZsmWxNMdLzb6ywMDg=
+
+Name: res/drawable-xhdpi-v4/ic_action_discard.png
+SHA1-Digest: e1aZEvVTGBN8rhJl5EdQMGeaSAk=
+
+Name: org/apache/http/entity/mime/version.properties
+SHA1-Digest: lTsA32TnDm/I0C2bgE86KRUEIHM=
+
+Name: res/drawable/home_button_brown.xml
+SHA1-Digest: pgZ3P7c2Ih0uAsY0i8NHvJVEsko=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: dvQZkTBlOMeaeqLbf9+kDfZaZcM=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: walV1ZTNBAlTKYzs5tcTprhdBYw=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_dark
+ .9.png
+SHA1-Digest: qqTJ4qjC9XYJ9/jUd+ZQk2kZYS8=
+
+Name: res/drawable-xhdpi-v4/ic_action_next_item.png
+SHA1-Digest: oJ3EE9G3wTdv9ziLFNDd3RsA0Rc=
+
+Name: res/drawable/background_green_selector.xml
+SHA1-Digest: Jfo1NwFGt4xz4x1mG+WhJBOz/js=
+
+Name: res/layout/expense_repeating_transfer.xml
+SHA1-Digest: 9zxVY7i0yFiR6PjDQPFzQE683Xo=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ncHmt9f4IWmwVsGlTgDgKwiNgn4=
+
+Name: res/drawable/expense_manager_pro.png
+SHA1-Digest: ALsy7ildNR2s0aCa93NZC5PGT5c=
+
+Name: res/drawable/ic_pie_chart.png
+SHA1-Digest: E9Ii17bUeW2F1ct4hjRNMVYSJYU=
+
+Name: proguard-project.txt
+SHA1-Digest: 991tHgFHqksQB5CMpeYbM42QtR8=
+
+Name: res/layout-sw600dp-v13/one_row_two_texts.xml
+SHA1-Digest: UltD3cIaV4hlAf77XxTGsLimO64=
+
+Name: res/drawable/custom_tab_indicator_selected_pressed.9.png
+SHA1-Digest: 5vv3JcA+IHYPeUrmWJ2nkMzW2nQ=
+
+Name: res/drawable/custom_tab_indicator.xml
+SHA1-Digest: j9knD0g7g0j9Yb1Csfi45NUcV3Q=
+
+Name: res/drawable-xhdpi-v4/ic_menu_settings.png
+SHA1-Digest: G3oCCvHatyk7WxEh9wYLS0tXypE=
+
+Name: res/layout-sw600dp-v13/expense_activities_weekly.xml
+SHA1-Digest: Dae+WneILgFHAZJzI1jTOcWGTtg=
+
+Name: res/layout-sw600dp-v13/sms_add.xml
+SHA1-Digest: ASVpA9RXQ/81IR6dU4jcVP+V1bA=
+
+Name: res/layout/gallery_row.xml
+SHA1-Digest: zss7P1pIcwdScFbwT+RAnGl/iFw=
+
+Name: res/layout/widget_small.xml
+SHA1-Digest: Qr1y8owPi0mNReTp1IaUZkwAxGI=
+
+Name: res/layout-sw600dp-v13/credit_card_payoff_calculator.xml
+SHA1-Digest: NgBuhGaN5GIoHnUKKsdn/YJvOrI=
+
+Name: res/drawable/ic_launcher_camera.png
+SHA1-Digest: V7QCLFD7jc47iMtZGa3w10mfuPA=
+
+Name: res/layout/expense_activities_row.xml
+SHA1-Digest: WcBTpCAKCamcOTzx4QBKGitNOj4=
+
+Name: res/layout-sw600dp-v13/expense_budget_item_row.xml
+SHA1-Digest: lSlSDl4b/C4gj3Ya9LhEwZX7X+g=
+
+Name: res/drawable/red_border.xml
+SHA1-Digest: anO6tEUXtvj4I1GLhTd8kH1kdh8=
+
+Name: res/layout/activity_horizontalbarchart.xml
+SHA1-Digest: flj7Es055hienskrpQj24/MxInI=
+
+Name: res/drawable/minus_32.png
+SHA1-Digest: bC+3CiwxRJSRo/b0uLBTYsaSJZ8=
+
+Name: res/menu/add_transaction_menu.xml
+SHA1-Digest: XW6qYm9DxdypvYoRW0QfnWZQOSI=
+
+Name: res/drawable-mdpi-v4/vpi__tab_selected_holo.9.png
+SHA1-Digest: JXuf7lp4Uv8OyhQ38t715dNxNgg=
+
+Name: res/menu/autofill_menu.xml
+SHA1-Digest: udoKGSXCn8P2W77IUIBzqCYU6Fk=
+
+Name: res/drawable-hdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: lKInJuW4EMK4qQVUHm2iKLd5RuM=
+
+Name: res/drawable/ic_action_search.png
+SHA1-Digest: G6hsgPymVFKByHeal8Gz36lEV+A=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: g5S6R1opYY+HU/2yYAXdZfPeC3k=
+
+Name: res/menu/settings_menu.xml
+SHA1-Digest: ioLqqNo1GRTsQ4Dyu+rQmK1PhmU=
+
+Name: res/layout-sw600dp-v13/expense_summary_activities_row.xml
+SHA1-Digest: 4oC0YsKWeTBLfRCOI5PKYW9Yv8A=
+
+Name: res/layout/expense_reminder_transaction_row.xml
+SHA1-Digest: 6TXccdV8Z/WrmnD5R77whnVRHQ4=
+
+Name: res/layout-sw600dp-v13/add_edit_list.xml
+SHA1-Digest: HJILgQ3FUVDUgzyVSCehYMtC+EY=
+
+Name: res/drawable-xxhdpi-v4/expense_manager.png
+SHA1-Digest: 8pNxHPdti1HK5qnNceZkGBhlzNY=
+
+Name: res/drawable-xhdpi-v4/vpi__tab_selected_focused_holo.9.png
+SHA1-Digest: pwc4CISdPXLbTvhFGlQPCyqKuxQ=
+
+Name: res/drawable-xxxhdpi-v4/expense_manager.png
+SHA1-Digest: cN17N9qT7vsa8iftQZd372pdK+c=
+
+Name: res/menu/calendar_view_menu.xml
+SHA1-Digest: T3ReymNfT8UDDr0UFDm16mTBYmg=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: FF9x9wlSkPYra0pZDSr03ISir98=
+
+Name: res/drawable/add_income.png
+SHA1-Digest: 43jDHoBc8Vo7UrQZ+CZPFUC/fbY=
+
+Name: res/drawable/cal_day_32.png
+SHA1-Digest: MrYOF4g97dEtBCOtEtwrcUeQrKQ=
+
+Name: res/drawable-xhdpi-v4/ic_action_edit.png
+SHA1-Digest: 4UOBy8yVncmaHqbewOaDgnTPHRk=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: AR9HXy3gX5kwRQ6URVZTPWpsvwA=
+
+Name: res/drawable/blue_button.xml
+SHA1-Digest: aZ86NWSzBFpHR2JJiWn1UXFLvv4=
+
+Name: res/layout/display_settings.xml
+SHA1-Digest: DAix1ctQr7i8F2kl6Wqr3WwAMB8=
+
+Name: functions_fr.properties
+SHA1-Digest: ofkt3A4iShAG2DoOp5Gi0b9o5XQ=
+
+Name: res/layout-sw600dp-v13/tag_list.xml
+SHA1-Digest: 3+TtKM+oqP2sLnZIXs2XuhytENI=
+
+Name: res/drawable/ic_action_go_to_today.png
+SHA1-Digest: 0n1JgDsqvnoLy/C2KI8qIgXZxaY=
+
+Name: res/layout-sw600dp-v13/pin_reset.xml
+SHA1-Digest: w3BTaWRn3nnAWYgP5mDG//jYfxE=
+
+Name: res/layout/image_attach.xml
+SHA1-Digest: +AF6AaIYMLo9/QC/f3mot9Uui5U=
+
+Name: res/drawable/background_dark1_selector.xml
+SHA1-Digest: l0CrAJ3Nfsi2C60Z18bENa1te7w=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: hj1AY+H6pE2McUPzsFA1Wwu3nIQ=
+
+Name: res/layout/widget_calc.xml
+SHA1-Digest: MuY0pNyU9MhuYebl80iklUvsRr8=
+
+Name: res/drawable-xhdpi-v4/ic_action_overflow.png
+SHA1-Digest: yI3VvniiX59OysUBGM0E6O7Wlbc=
+
+Name: com/google/api/client/googleapis/google.jks
+SHA1-Digest: 2VFYHPhiUUfhcGkhs29aZWVIkFE=
+
+Name: res/drawable-hdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: P7XjqtLSVWuZ/RCCqMUyh4j3wGw=
+
+Name: functions_de.properties
+SHA1-Digest: 4enCBa0YLzdk7A166A9p+onPjv4=
+
+Name: res/drawable/passcode_button.xml
+SHA1-Digest: FuZvJkN03aukQVop8Vbjbm2dgUQ=
+
+Name: res/drawable/disable_cell.xml
+SHA1-Digest: DSOV2gre0Rw4dsK+eHe26Nf0fMA=
+
+Name: ic_launcher-web.png
+SHA1-Digest: 3G/rJf9VN0MgAdYjSnXTX5jO98Y=
+
+Name: res/drawable/custom_tab_indicator_divider.9.png
+SHA1-Digest: aaK7HEKKf4cgWCINJtxQxxYOsRo=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: MystNx1ZKTpMn+y9CI3Frb+KGo4=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: LZx0xqgXyBfiojDopo6cg6H51jY=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: DfBRJWNOpJP1gSeHEKS7qA68w1k=
+
+Name: res/layout/expense_autofill_row.xml
+SHA1-Digest: r1OKrabsxFMBLhLx4+v+0IQMm38=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_light.9.pn
+ g
+SHA1-Digest: Nr4OZTMs+CD3CJ66ijihMYlQ/CM=
+
+Name: res/layout/expense_chart_date.xml
+SHA1-Digest: vHvGuj5AyCLms+wXJANittO6dFA=
+
+Name: res/layout-v16/overlay_view.xml
+SHA1-Digest: 3MXU/MQDrnXO+6IrAh3+22w9uJI=
+
+Name: res/drawable/arrow_next_32.png
+SHA1-Digest: /t0MI2Fr0V0nUU8pUYW35SRDK8w=
+
+Name: res/menu/shoppinglist_menu.xml
+SHA1-Digest: NEXpUJoTF94nnncM8i41JaqQfPs=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: h8OXyDRCk3boAFYIQfDqBpNpcKo=
+
+Name: res/drawable-mdpi-v4/vpi__tab_unselected_holo.9.png
+SHA1-Digest: IYrSPhjhtiGtyOIPNXAhYAsa4zc=
+
+Name: res/drawable/switcher.png
+SHA1-Digest: gGrha0AwzIOZ/Kd0VGOcLZp1Fv8=
+
+Name: res/layout/expense_budget_onetime_add.xml
+SHA1-Digest: MaaJl+i+3nO7RgMOcy7dBusgi+A=
+
+Name: res/drawable/background_red_selector.xml
+SHA1-Digest: 27gF5cmR5L1nZXCds0ZzhvSIdlE=
+
+Name: org/achartengine/image/zoom_in.png
+SHA1-Digest: lxpKV8NWap/pIL+3lszROFu6bqA=
+
+Name: res/layout/expense_chart_summary.xml
+SHA1-Digest: CoMI2OIzAFigWEf29/mva/REUXI=
+
+Name: res/layout/expense_chart_custom.xml
+SHA1-Digest: BDbEtSBwDwDw5iihFmctkB5MZVg=
+
+Name: res/layout-sw600dp-v13/expense_backup.xml
+SHA1-Digest: RfxKmf89uUQdm/xFzMcN7V5hf4U=
+
+Name: res/layout/expense_repeating_list.xml
+SHA1-Digest: PWL4JecMaoL0ecmk4A2S1NZKt6s=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: 4Tm2PenDNchFZkDLYXx0Umi2LH0=
+
+Name: res/drawable-xhdpi-v4/ic_action_sort_by_size.png
+SHA1-Digest: quxnMYz76+6bt+cKv8kYL5lew84=
+
+Name: res/drawable-xhdpi-v4/ic_action_view_as_list.png
+SHA1-Digest: v69GsBtNKec9mX9ybsCB9SKAMrQ=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: 4gyDaUrbhDxi6ha/bJnu54NtnaQ=
+
+Name: res/layout-sw600dp-v13/budget_list_header.xml
+SHA1-Digest: rZmmo+Eus08WxCpUNjMw1UKCUFM=
+
+Name: resources.arsc
+SHA1-Digest: 8jYn4ntQgj1RSLmtcpjxZIt9bxk=
+
+Name: project.properties
+SHA1-Digest: sAJovxPCL2IEK2S6FCDoHk/B17k=
+
+Name: res/layout/widget.xml
+SHA1-Digest: YGYRQqg+qHGCZcvY98jP8uMcRMk=
+
+Name: res/drawable/white_background.xml
+SHA1-Digest: qwkjlWCKREU+T1Z17J15CrKx+RU=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: +TYy8goS/s7APtthqzt9aXBYLEI=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: XAWxw7YLCYXvpUtfFWNJaesS6xQ=
+
+Name: res/layout/sales_tax_calculator.xml
+SHA1-Digest: M+1vFO3GGDf1aTlvZqoJCS7iM4c=
+
+Name: res/layout/widget_budget.xml
+SHA1-Digest: uvCplab7wbjKTF0lyTeRfhihTyA=
+
+Name: res/layout-sw600dp-v13/sales_tax_calculator.xml
+SHA1-Digest: hbLa5E3PkQPUQKNf8BUjj+CZRTE=
+
+Name: res/layout/chart_new_monthly.xml
+SHA1-Digest: bfhY7hy9kyrHKa69LVqKt4FDY3o=
+
+Name: res/layout/simple_list_item_color.xml
+SHA1-Digest: +IOwPgZlFxbje/orAyFI4BfJfiM=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: QwiM3Q2FP7ZYDaB04oy3gDzhBto=
+
+Name: res/layout/pin_reset.xml
+SHA1-Digest: wMAJIzhGsjT7tdMJmIc5OINPZeU=
+
+Name: res/layout-sw600dp-v13/simple_list_item_color.xml
+SHA1-Digest: a1nH00XFAPUlCtM4Rn1gd1+3Lnk=
+
+Name: res/drawable/ic_action_new_label.png
+SHA1-Digest: MhZNEkbLkZAsddRcantYUExUOjU=
+
+Name: res/layout-sw600dp-v13/currency_settings.xml
+SHA1-Digest: ojZ8QTRG2ivS0KBVv/CznFccAvE=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: 52wNZqRHAPnDD55A0qr2nildLKo=
+
+Name: res/drawable/common_signin_btn_icon_light.xml
+SHA1-Digest: PYruC6gc+tAv2agr7uHDTFq109k=
+
+Name: res/layout/dropbox.xml
+SHA1-Digest: qoW0S0CBrcbErzM05VmegGfw0qU=
+
+Name: res/layout-sw600dp-v13/shoppinglist_add.xml
+SHA1-Digest: QKO4cBo3sZ0vniMelj1oFJL+oFM=
+
+Name: res/layout/expense_summary_time.xml
+SHA1-Digest: RoKdp///LbGBHeRzYY09o/lwPhU=
+
+Name: res/drawable/ic_action_accept.png
+SHA1-Digest: lY0wp87r6tf06h6q7YeWD0+hZSU=
+
+Name: res/drawable/expense_manager.png
+SHA1-Digest: FmqX6LJ/To1h9M0y7jA+ijFUVGg=
+
+Name: res/drawable-xhdpi-v4/ic_expense.png
+SHA1-Digest: r5UwY6wGshkO4W9Cn25aqarMqCU=
+
+Name: res/layout/chart_new_custom.xml
+SHA1-Digest: D3jAuBaahN+ttz7uppkKit9RZq4=
+
+Name: res/layout/expense_activity_default.xml
+SHA1-Digest: 8RjxBapCm0eb5PBc1LyvWprdEXM=
+
+Name: res/layout-sw600dp-v13/image_attach.xml
+SHA1-Digest: cNgm1Lh/UobloH/y7cJnAl6M72c=
+
+Name: res/drawable/common_signin_btn_text_dark.xml
+SHA1-Digest: yXeZ0HIAsN6L2UPWAil6Nl3Pi7M=
+
+Name: res/layout/calendar_view.xml
+SHA1-Digest: oFGuQ6HjPehJmjUKhwmwldl+WsQ=
+
+Name: res/drawable-hdpi-v4/vpi__tab_unselected_focused_holo.9.png
+SHA1-Digest: spmphMdGcQGSOgk7o0TYgQDCQEQ=
+
+Name: res/layout/note_list.xml
+SHA1-Digest: 5bSVKWnNGHJHth/PLg/GQMS8lIY=
+
+Name: res/layout-sw600dp-v13/pro_edition.xml
+SHA1-Digest: bo202PcOZY5RCJ4wbzdThvIl8eg=
+
+Name: res/drawable-hdpi-v4/vpi__tab_unselected_pressed_holo.9.png
+SHA1-Digest: /H/TWr7jiIqrGy/+/4iCK8Dl7r0=
+
+Name: res/layout/expense_repeating_add.xml
+SHA1-Digest: xCyGhhfr069emYTZGVlD3xlrge4=
+
+Name: res/layout-sw600dp-v13/expense_auto_fill.xml
+SHA1-Digest: mVXvRKGWbC1M4ZJMfKoObG1l40c=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: jeu5ig2PAsCT43VEEAkZS2PnKG8=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: TnTUX6LREg+EPdgP4BMTP/XSDWM=
+
+Name: res/layout/note_add.xml
+SHA1-Digest: a41KjDxr3dQ9xDXlE3YuekNA8QU=
+
+Name: res/drawable/button.xml
+SHA1-Digest: k/CIrG1fzCbUR1gvbPUkvQKpfYw=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: j0aG6+UG2uOca2C4AVd8ag7DPbs=
+
+Name: res/drawable-xhdpi-v4/ic_launcher_camera.png
+SHA1-Digest: VOZT8Dg6LmKtpT6rbgho4pvRR40=
+
+Name: res/drawable/background_purple_selector.xml
+SHA1-Digest: ocfub1rbXUmFM4zDvTeak9S46Cc=
+
+Name: res/menu/edit_sort_menu.xml
+SHA1-Digest: X6EEl6ryFf1RKrTXr609Alq/uJ4=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: g/EA9y87XivuPGfsEBhycw99ihE=
+
+Name: res/menu/budget_menu.xml
+SHA1-Digest: XSe34ogJfJq9iBempi0eR04Wu4M=
+
+Name: res/layout-sw600dp-v13/simple_list_item_1.xml
+SHA1-Digest: t7LrArzoFCBS5Y0IYAV2Lwjz6a4=
+
+Name: res/layout/expense_mileage_add.xml
+SHA1-Digest: Ewv5n3IC4R5WbxdN8VC6ytZC4A8=
+
+Name: res/layout-sw600dp-v13/debt_list.xml
+SHA1-Digest: +p8i3TuTZjbd1DfPim0NNFeHs5Y=
+
+Name: res/layout-sw600dp-v13/expense_account_summary.xml
+SHA1-Digest: zdWRCJDh0TocvKsnvPLZ40WzpdE=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: EnithPaNXwOv/zCX3978PlhGGW0=
+
+Name: res/drawable/background_blue_selector.xml
+SHA1-Digest: dH/3NhJ6W1irhpyhlShepcIH4w0=
+
+Name: res/layout/touch_list_two_row.xml
+SHA1-Digest: 5FZOPk4iegHpBXSqSYXkAY+we4I=
+
+Name: res/menu/select_all_menu.xml
+SHA1-Digest: sHypUclgP9rYFDEfJA9QR0NKtXY=
+
+Name: res/layout/simple_expandable_list_item_1.xml
+SHA1-Digest: 4JO0ix9f81iR7hWpD85T20/bjI8=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_dar
+ k.9.png
+SHA1-Digest: HnX1iCzxlGqHfnF3q+JwLt/NWfw=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_light.9.p
+ ng
+SHA1-Digest: 3J0lPq0PiYktI7XoqyTkLPmgUZ0=
+
+Name: res/drawable/ic_action_location_searching.png
+SHA1-Digest: QER4jVxlBoFL0yjb5mSb2lo+ui4=
+
+Name: bin/AndroidManifest.xml
+SHA1-Digest: VPwfdqdfuNTBla/MWaaAFz1GVpE=
+
+Name: res/drawable/ic_action_edit.png
+SHA1-Digest: rL0YRmO0HbeC+KKZohQR3IK+gdA=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: HeMKWSGLbQ3lkR6UcVPXXS4uFr4=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: f7JyZZ2vrANe5lI7V6yhxHozjrQ=
+
+Name: res/drawable/ic_home_white_48dp.png
+SHA1-Digest: /Mjd6EwzcqVzYnQR73JMyImbu/8=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: A33f/6Xb1ogZl4jZlmsi6//HTbE=
+
+Name: res/layout/currency_settings.xml
+SHA1-Digest: HLQdhSYuCAVJLgEitMzvg+p1f/0=
+
+Name: res/layout/expense_category_add_edit.xml
+SHA1-Digest: XO78kNc8KkPK4nZeLb/SkU+oWUY=
+
+Name: res/layout/listview_summary.xml
+SHA1-Digest: 3G3haQIZbiWr9BvZeXVK+ze4C5A=
+
+Name: res/drawable-mdpi-v4/vpi__tab_selected_pressed_holo.9.png
+SHA1-Digest: Foq3DUDnfo2yuajB1W9C6isVjHM=
+
+Name: res/drawable-hdpi-v4/vpi__tab_selected_holo.9.png
+SHA1-Digest: Wrt02Y2K8XLTMkyQYTg+8jOIoN4=
+
+Name: res/layout/simple_spinner_actionbar_item.xml
+SHA1-Digest: 8EwmJgPR+qaSVbeVfwuituO0f0o=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: yT6sfaTIb8IYSujsqfuSSRMQz90=
+
+Name: res/drawable-xhdpi-v4/ic_action_new.png
+SHA1-Digest: L/8CSZKDoONSKwU3D5JonNcOgKY=
+
+Name: res/layout/expense_account_add.xml
+SHA1-Digest: S/3ooLEF5Xp9Q/CP2BYhnSG0Yvo=
+
+Name: res/layout/pro_edition.xml
+SHA1-Digest: xzMWD0EqlCHCOuZ6ZE68/8VAJPs=
+
+Name: res/layout/expense_account_summary.xml
+SHA1-Digest: deNMVKsjMEJXH7QLW8pqRQVTSm0=
+
+Name: res/layout/tip_calculator.xml
+SHA1-Digest: P+5EAcYtUbXBpIY/cK23EtIUU2s=
+
+Name: res/drawable/ic_menu_settings.png
+SHA1-Digest: ek9SLN59YaQ5wmAoO/rlBbmN2gg=
+
+Name: res/layout-sw600dp-v13/expense_activities_monthly.xml
+SHA1-Digest: nCbQsMtdhHrLFBPwu8vTvMdlPj0=
+
+Name: res/layout/widget_add.xml
+SHA1-Digest: OVY1HR3L291x2h5LOCtu5MTCjbI=
+
+Name: functions_da.properties
+SHA1-Digest: qm5j+8h9MHV7vYl0nlqk2g5ZqV8=
+
+Name: res/layout-sw600dp-v13/fragment_pager.xml
+SHA1-Digest: W+T9swXLAk9CT7ZqA336IvXw+aU=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: xcTN0BptV8zhNDPGrIosM/qYW1o=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: Eg+tT/t4WpGjfmTKq9KG0JTWonw=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: PvS65iz0+hMrZVvNdPcYGYBkAvs=
+
+Name: res/layout-sw600dp-v13/widget_configure_summary.xml
+SHA1-Digest: RLMlRktU6zegPYny6SJmCG19JgQ=
+
+Name: res/drawable/widget_shape.xml
+SHA1-Digest: SJohotOyQWbFxFRIBdlgkuzP4lI=
+
+Name: res/drawable/icon_interest.png
+SHA1-Digest: x1S+6ew/EnSiL7Nxa5szvCeHgKI=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: sQHE6IQziNSTxVMBL3yAa2hXDXk=
+
+Name: res/layout/expense_account_transfer.xml
+SHA1-Digest: 5BqXQ/oQEqfwyyrmEqAWIfo3WoU=
+
+Name: res/layout-sw600dp-v13/pin_setting.xml
+SHA1-Digest: wQ1MTuQVb8+qBlL1K30aE3vMut4=
+
+Name: res/layout-sw600dp-v13/expense_account_add.xml
+SHA1-Digest: yrm59K8qcy6cfo/WpsICnQY8ipQ=
+
+Name: res/drawable/background_solid_white.xml
+SHA1-Digest: mmKG2b0LXz7RlERAXbijHzZkI3I=
+
+Name: res/layout/touch_list_tag_row.xml
+SHA1-Digest: 805M6AzuZmj6+G3DuFnzybLCtQw=
+
+Name: res/layout/credit_card_payoff_calculator.xml
+SHA1-Digest: 7qI8qZb6epwYTI0kqYOYGpDJrX4=
+
+Name: res/layout-sw600dp-v13/touch_list_one_text.xml
+SHA1-Digest: xYegPUQ+7FrMlQ5NbAE/oUakohM=
+
+Name: res/drawable/button_purple_selector.xml
+SHA1-Digest: 9PGl5yGxvidBpM2lHSrUHLZdue4=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: uJ2DS4EIaeC1oq2u0cMJassraFM=
+

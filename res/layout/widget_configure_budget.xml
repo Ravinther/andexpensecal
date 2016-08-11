@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="0x7f0d0052" android:scrollbars="200" android:layout_width="-1" android:layout_height="-1" android:fillViewport="true">
+    <LinearLayout android:orientation="1" android:id="0x7f0d00f3" android:layout_width="-1" android:layout_height="-1">
+        <TextView android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f060209" />
+        <TextView android:textStyle="1" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f060098" />
+        <LinearLayout android:orientation="0" android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+            <RadioGroup android:orientation="1" android:id="0x7f0d00f5" android:layout_width="-1" android:layout_height="-2">
+                <RadioButton android:id="0x7f0d02bb" android:layout_width="-2" android:layout_height="-2" android:text="0x7f06008f" />
+                <RadioButton android:id="0x7f0d00f7" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060205" />
+                <RadioButton android:id="0x7f0d00f8" android:layout_width="-2" android:layout_height="-2" android:checked="true" android:text="0x7f060134" />
+                <RadioButton android:id="0x7f0d00f9" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060213" android:singleLine="true" />
+                <RadioButton android:id="0x7f0d02bc" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060152" android:singleLine="true" />
+            </RadioGroup>
+        </LinearLayout>
+        <CheckBox android:textSize="14dp" android:id="0x7f0d02ae" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060207" />
+        <LinearLayout android:layout_gravity="11" android:orientation="0" android:padding="10dp" android:layout_width="-2" android:layout_height="-2">
+            <Button android:id="0x7f0d0031" android:layout_width="200dp" android:layout_height="-2" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f06014f" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

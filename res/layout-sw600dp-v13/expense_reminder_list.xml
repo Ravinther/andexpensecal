@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:id="0x7f0d00f3" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:layout_gravity="11" android:orientation="0" android:padding="10dp" android:layout_width="-2" android:layout_height="-2">
+        <Button android:textSize="0x7f070001" android:layout_gravity="11" android:id="0x7f0d01c5" android:layout_width="300dp" android:layout_height="-2" android:layout_margin="1dp" android:text="0x7f060029" style="?unknown_attr_ref: 1010049" />
+    </LinearLayout>
+    <ListView android:id="0x102000a" android:layout_width="-1" android:layout_height="0dp" android:transcriptMode="1" android:layout_weight="1.0" />
+</LinearLayout>

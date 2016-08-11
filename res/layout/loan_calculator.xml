@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="0x7f0d0052" android:scrollbars="200" android:layout_width="-1" android:layout_height="-1" android:fillViewport="true">
+    <LinearLayout android:orientation="1" android:id="0x7f0d020e" android:paddingTop="5dp" android:layout_width="-1" android:layout_height="-2"
+        <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+            <TextView android:textSize="16dp" android:textStyle="1" android:layout_width="115dp" android:layout_height="-2" android:text=" Loan Amount" />
+            <EditText android:id="0x7f0d020f" android:layout_width="190dp" android:layout_height="-2" android:digits="0123456789.," android:inputType="2002" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+            <TextView android:textSize="16dp" android:textStyle="1" android:layout_width="115dp" android:layout_height="-2" android:text=" Interest Rate" />
+            <EditText android:id="0x7f0d0200" android:layout_width="120dp" android:layout_height="-2" android:digits="0123456789." android:inputType="2002" />
+            <TextView android:textSize="14dp" android:textStyle="1" android:layout_width="120dp" android:layout_height="-2" android:text=" % per year" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+            <TextView android:textSize="16dp" android:textStyle="1" android:layout_width="115dp" android:layout_height="-2" android:text=" Loan Term" />
+            <EditText android:id="0x7f0d0210" android:layout_width="50dp" android:layout_height="-2" android:digits="0123456789" android:inputType="2002" />
+            <TextView android:textSize="14dp" android:textStyle="1" android:layout_width="-2" android:layout_height="-2" android:text=" Years " />
+            <EditText android:id="0x7f0d0211" android:layout_width="52dp" android:layout_height="-2" android:digits="0123456789" android:inputType="2002" />
+            <TextView android:textSize="14dp" android:textStyle="1" android:layout_width="-2" android:layout_height="-2" android:text=" Months" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+            <TextView android:textSize="16dp" android:textStyle="1" android:layout_width="-2" android:layout_height="-2" android:text=" Extra Payment Per Month " />
+            <EditText android:id="0x7f0d0212" android:layout_width="100dp" android:layout_height="-2" android:digits="0123456789.," android:inputType="2002" />
+        </LinearLayout>
+        <LinearLayout android:orientation="1" android:id="0x7f0d0213" android:visibility="2" android:layout_width="-2" android:layout_height="-2"
+            <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+                <TextView android:textSize="16dp" android:textStyle="1" android:layout_width="115dp" android:layout_height="-2" android:text=" Property Tax" />
+                <EditText android:id="0x7f0d0214" android:layout_width="120dp" android:layout_height="-2" android:digits="0123456789.," android:inputType="2002" />
+                <TextView android:textSize="14dp" android:textStyle="1" android:layout_width="-2" android:layout_height="-2" android:text=" per year" />
+            </LinearLayout>
+            <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+                <TextView android:textSize="16dp" android:textStyle="1" android:layout_width="115dp" android:layout_height="-2" android:text=" Insurance" />
+                <EditText android:id="0x7f0d0215" android:layout_width="120dp" android:layout_height="-2" android:digits="0123456789.," android:inputType="2002" />
+                <TextView android:textSize="14dp" android:textStyle="1" android:layout_width="-2" android:layout_height="-2" android:text=" per year" />
+            </LinearLayout>
+            <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+                <TextView android:textSize="16dp" android:textStyle="1" android:layout_width="115dp" android:layout_height="-2" android:text=" PMI" />
+                <EditText android:id="0x7f0d0216" android:layout_width="120dp" android:layout_height="-2" android:digits="0123456789." android:inputType="2002" />
+                <TextView android:textSize="14dp" android:textStyle="1" android:layout_width="-2" android:layout_height="-2" android:text=" % per year" />
+            </LinearLayout>
+            <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+                <TextView android:textSize="15dp" android:textStyle="1" android:layout_width="115dp" android:layout_height="-2" android:text=" Property Price" />
+                <EditText android:id="0x7f0d0217" android:layout_width="190dp" android:layout_height="-2" android:digits="0123456789.," android:inputType="2002" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="11" android:id="0x7f0d005c" android:padding="1dp" android:layout_width="-2" android:layout_height="-2">
+            <Button android:id="0x7f0d005d" android:layout_width="150dp" android:layout_height="-2" android:layout_margin="2dp" android:minWidth="1dp" android:minHeight="1dp" android:text="Reset" />
+            <Button android:id="0x7f0d0218" android:visibility="2" android:layout_width="95dp" android:layout_height="-2" android:minWidth="1dp" android:minHeight="1dp" android:text="Advanced" />
+            <Button android:id="0x7f0d005e" android:layout_width="150dp" android:layout_height="-2" android:layout_margin="2dp" android:minWidth="1dp" android:minHeight="1dp" android:text="Calculate" />
+        </LinearLayout>
+        <LinearLayout android:orientation="1" android:id="0x7f0d0219" android:padding="3dp" android:visibility="1" android:layout_width="-1" android:layout_height="-2"
+            <LinearLayout android:orientation="1" android:id="0x7f0d021a" android:visibility="2" android:layout_width="-2" android:layout_height="-2"
+                <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+                    <TextView android:textSize="16dp" android:textStyle="1" android:gravity="5" android:id="0x7f0d021b" android:layout_width="160dp" android:layout_height="-2" android:text="" />
+                    <TextView android:textSize="16dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d021c" android:layout_width="-2" android:layout_height="-2" android:text="" />
+                </LinearLayout>
+                <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+                    <TextView android:textSize="16dp" android:textStyle="1" android:gravity="5" android:id="0x7f0d021d" android:layout_width="160dp" android:layout_height="-2" android:text="Monthly PMI: " />
+                    <TextView android:textSize="16dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d021e" android:layout_width="-2" android:layout_height="-2" android:text="" />
+                </LinearLayout>
+                <TextView android:textSize="16dp" android:textStyle="1" android:id="0x7f0d021f" android:layout_width="-2" android:layout_height="-2" />
+            </LinearLayout>
+            <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+                <TextView android:textSize="16dp" android:textStyle="1" android:gravity="5" android:layout_width="160dp" android:layout_height="-2" android:text=" Monthly payment: " />
+                <TextView android:textSize="16dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d0220" android:layout_width="-2" android:layout_height="-2" android:text="" />
+            </LinearLayout>
+            <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+                <TextView android:textSize="16dp" android:textStyle="1" android:gravity="5" android:layout_width="160dp" android:layout_height="-2" android:text=" Total Payment: " />
+                <TextView android:textSize="16dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d0221" android:layout_width="-2" android:layout_height="-2" android:text="" />
+            </LinearLayout>
+            <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+                <TextView android:textSize="16dp" android:textStyle="1" android:gravity="5" android:layout_width="160dp" android:layout_height="-2" android:text=" Total Interest: " />
+                <TextView android:textSize="16dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d0222" android:layout_width="-2" android:layout_height="-2" android:text="" />
+            </LinearLayout>
+            <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+                <TextView android:textSize="16dp" android:textStyle="1" android:gravity="5" android:layout_width="160dp" android:layout_height="-2" android:text=" Annual Payment: " />
+                <TextView android:textSize="16dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d0223" android:layout_width="-2" android:layout_height="-2" android:text="" />
+            </LinearLayout>
+            <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+                <TextView android:textSize="16dp" android:textStyle="1" android:gravity="5" android:layout_width="160dp" android:layout_height="-2" android:text=" Mortgage Constant: " />
+                <TextView android:textSize="16dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d0224" android:layout_width="-2" android:layout_height="-2" android:text="" />
+            </LinearLayout>
+            <LinearLayout android:orientation="1" android:id="0x7f0d0225" android:paddingTop="1dp" android:visibility="2" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:textSize="16dp" android:textStyle="1" android:textColor="#1372c2" android:layout_width="-2" android:layout_height="-2" android:text=" With Additional Payment " />
+                <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+                    <TextView android:textSize="16dp" android:textStyle="1" android:gravity="5" android:layout_width="160dp" android:layout_height="-2" android:text=" Interest Saving: " />
+                    <TextView android:textSize="16dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d0226" android:layout_width="-2" android:layout_height="-2" android:text="" />
+                </LinearLayout>
+                <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+                    <TextView android:textSize="16dp" android:textStyle="1" android:gravity="5" android:layout_width="160dp" android:layout_height="-2" android:text=" Payoff Earlier by: " />
+                    <TextView android:textSize="16dp" android:textStyle="1" android:textColor="?unknown_attr_ref: 7f010002" android:id="0x7f0d0227" android:layout_width="-2" android:layout_height="-2" android:text="" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:layout_gravity="11" android:orientation="0" android:paddingTop="10dp" android:layout_width="-2" android:layout_height="-2">
+                <Button android:layout_gravity="11" android:id="0x7f0d0228" android:layout_width="150dp" android:layout_height="-2" android:layout_margin="2dp" android:minWidth="1dp" android:minHeight="1dp" android:text="Amortization" />
+                <Button android:layout_gravity="11" android:id="0x7f0d006b" android:layout_width="150dp" android:layout_height="-2" android:layout_margin="2dp" android:minWidth="1dp" android:minHeight="1dp" android:text="0x7f060161" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="#dddddd" android:padding="10dp" android:layout_width="-1" android:layout_height="-2"
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textSize="0x7f070001" android:textStyle="2" android:gravity="3" android:layout_width="-2" android:layout_height="-2" android:text="0x7f06001e" android:layout_alignParentLeft="true" />
+        <TextView android:textSize="0x7f070001" android:textStyle="2" android:gravity="5" android:layout_width="-1" android:layout_height="-2" android:text="0x7f060189" android:layout_alignParentRight="true" />
+    </LinearLayout>
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textSize="0x7f070001" android:textStyle="2" android:gravity="3" android:layout_width="-2" android:layout_height="-2" android:text="0x7f06006f" android:layout_alignParentLeft="true" />
+        <TextView android:textSize="0x7f070001" android:textStyle="2" android:gravity="5" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0601c1" android:layout_alignParentRight="true" />
+    </LinearLayout>
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textSize="0x7f070001" android:textStyle="2" android:gravity="3" android:layout_width="-2" android:layout_height="-2" android:text="0x7f060061" android:layout_alignParentLeft="true" />
+    </LinearLayout>
+</LinearLayout>
